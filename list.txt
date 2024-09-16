@@ -1363,8 +1363,7 @@ Forum Security Solutions                                  , 61  ,  Private Secur
 Hi-tech Alarms                                            , 61  ,  Private Security Sector Provident Fund
 Hlongwane Security and Projects                           , 61  ,  Private Security Sector Provident Fund
 Mr C Simoto Trading                                       , 61  ,  Private Security Sector Provident Fund
-Reg Rey Security and Transport Projects
-CC                                                        , 61  ,  Private Security Sector Provident Fund
+Reg Rey Security and Transport Projects CC                                                        , 61  ,  Private Security Sector Provident Fund
 Securecorp CC                                             , 61  ,  Private Security Sector Provident Fund
 Six Bullets Security (Pty) Ltd                            , 61  ,  Private Security Sector Provident Fund
 SPG Security Services                                     , 61  ,  Private Security Sector Provident Fund
@@ -1630,7 +1629,7 @@ T G K Security Services                                   , 49  ,  Private Secur
 Trust Security CC                                         , 49  ,  Private Security Sector Provident Fund
 Usendo Security and Cleaning Services CC                                                        , 49  ,  Private Security Sector Provident Fund
 
-CC                                                        , 49  , Bargaining Council for the Furniture Dhasi's lounge suite repairs and upholstery                        Manufacturing Industry of the Western  Cape Provident Fund
+Bargaining Council for the Furniture Dhasi's lounge suite repairs and upholstery     CC                                                        , 49  ,                    Manufacturing Industry of the Western  Cape Provident Fund
 
 Amble Trading CC                                          , 49  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 
@@ -1710,40 +1709,32 @@ SV Mbanjwa                                                , 46  ,  Private Secur
 Yolihle Security and Distribution of Goods CC                                                        , 46  ,  Private Security Sector Provident Fund
 
 Saphi (Clothing)                                          , 46  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Saiens Creations                                          , 46  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Exception Furniture Manufacturers CC                      , 46  ,  Cape Provident Fund
+
+Saiens Creations                                          , 46  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Exception Furniture Manufacturers CC                      , 46  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
                                                                    Bargaining Council for the Furniture
                                                                    Manufacturing Industry of the Western
 Pica Kitchens and Shopfitters CC                          , 46  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Icon Business Furniture CC                                , 46  ,  Cape Provident Fund
+
+Icon Business Furniture CC                                , 46  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Majacon 1120 CC t/a Spar Polokwane                        , 45  ,  SACCAWU National Provident Fund
 Seasons Eco golf estate                                   , 45  ,  SACCAWU National Provident Fund
 BC Security Solutions                                     , 45  ,  Private Security Sector Provident Fund
 Ernatrax Alarms                                           , 45  ,  Private Security Sector Provident Fund
 Gob Enterprise (Pty) Ltd                                  , 45  ,  Private Security Sector Provident Fund
 Kan Security Solutions                                    , 45  ,  Private Security Sector Provident Fund
-Khensani Security Services and Trading
-(Pty) Ltd                                                 , 45  ,  Private Security Sector Provident Fund
+Khensani Security Services and Trading (Pty) Ltd                                                 , 45  ,  Private Security Sector Provident Fund
 Moabi Security Services                                   , 45  ,  Private Security Sector Provident Fund
 Musimeki 777 Trading                                      , 45  ,  Private Security Sector Provident Fund
-Owamisbo Tradings t/a Owamisbo Security
-Services                                                  , 45  ,  Private Security Sector Provident Fund
-S.M Stranghisi Trading Enterprise and
-Projects t/a S.M.S Security                               , 45  ,  Private Security Sector Provident Fund
+Owamisbo Tradings t/a Owamisbo Security Services                                                  , 45  ,  Private Security Sector Provident Fund
+S.M Stranghisi Trading Enterprise and Projects t/a S.M.S Security                               , 45  ,  Private Security Sector Provident Fund
 Sniper Security                                           , 45  ,  Private Security Sector Provident Fund
 The Invictus Security t/a Invictus Security               , 45  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Santos and Son Construction CC                            , 45  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Martiq 283 CC                                             , 45  ,  Cape Provident Fund
+
+Santos and Son Construction CC                            , 45  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Martiq 283 CC                                             , 45  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Alarm Pro Security                                        , 44  ,  Private Security Sector Provident Fund
 Black Bees Security and Cleaning Services                 , 44  ,  Private Security Sector Provident Fund
 Camlive Vision (Pty) Ltd                                  , 44  ,  Private Security Sector Provident Fund
@@ -1759,17 +1750,14 @@ Ph & PH Sekuriteit                                        , 44  ,  Private Secur
 Pit Bull Security Services                                , 44  ,  Private Security Sector Provident Fund
 Robbery Reaction Unit                                     , 44  ,  Private Security Sector Provident Fund
 Silapha Security CC                                       , 44  ,  Private Security Sector Provident Fund
-Starways Trading 16 CC t/a Starways
-Protection Services                                       , 44  ,  Private Security Sector Provident Fund
+Starways Trading 16 CC t/a Starways Protection Services                                       , 44  ,  Private Security Sector Provident Fund
 Test Lek Security CC                                      , 44  ,  Private Security Sector Provident Fund
 Titan Asset Protection CC                                 , 44  ,  Private Security Sector Provident Fund
 Top Shutters Security and Projects                        , 44  ,  Private Security Sector Provident Fund
 Ditsobotla                                                , 43  ,  Municipal Councillors Pension Fund
 Asprotech Security System CC                              , 43  ,  Private Security Sector Provident Fund
-Diamond Jam Investments t/a DJ Security
-Services                                                  , 43  ,  Private Security Sector Provident Fund
-JXN trillion Group (Pty) Ltd t/a JXN
-Security Services                                         , 43  ,  Private Security Sector Provident Fund
+Diamond Jam Investments t/a DJ Security Services                                                  , 43  ,  Private Security Sector Provident Fund
+JXN trillion Group (Pty) Ltd t/a JXN Security Services                                         , 43  ,  Private Security Sector Provident Fund
 Komga Alarms                                              , 43  ,  Private Security Sector Provident Fund
 Limika Investments (Pty) Ltd                              , 43  ,  Private Security Sector Provident Fund
 Nibatha Security Services                                 , 43  ,  Private Security Sector Provident Fund
@@ -1777,14 +1765,11 @@ P & c Private and Confidential Services                   , 43  ,  Private Secur
 Pholile Business Solutions                                , 43  ,  Private Security Sector Provident Fund
 Sentinel Guard Services                                   , 43  ,  Private Security Sector Provident Fund
 Sikhanya Sonke Security                                   , 43  ,  Private Security Sector Provident Fund
-Siyakhana Security Primary Co-operative
-Limited                                                   , 43  ,  Private Security Sector Provident Fund
-Undisputed Investments Trading as
-Undisputed Security                                       , 43  ,  Private Security Sector Provident Fund
+Siyakhana Security Primary Co-operative Limited                                                   , 43  ,  Private Security Sector Provident Fund
+Undisputed Investments Trading as Undisputed Security                                       , 43  ,  Private Security Sector Provident Fund
 Vhuthu Security                                           , 43  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Furn-doc CC                                               , 43  ,  Cape Provident Fund
+
+Furn-doc CC                                               , 43  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Rite Valu Oakdene CC                                      , 42  ,  SACCAWU National Provident Fund
 Brands Furnishers CC                                      , 42  ,  SACCAWU National Provident Fund
 Eel Protection Service CC                                 , 42  ,  Private Security Sector Provident Fund
@@ -1793,11 +1778,9 @@ Hawk Risk Protection                                      , 42  ,  Private Secur
 LandMark Security and Supply Services                     , 42  ,  Private Security Sector Provident Fund
 Maqhwememe Security                                       , 42  ,  Private Security Sector Provident Fund
 Matome and Moloto Protection Services                     , 42  ,  Private Security Sector Provident Fund
-Nare Security Training and Protection
-Services                                                  , 42  ,  Private Security Sector Provident Fund
+Nare Security Training and Protection Services                                                  , 42  ,  Private Security Sector Provident Fund
 Ndinako Security and Cleaning Services                    , 42  ,  Private Security Sector Provident Fund
-Netcovision t/a 911 Security & Cleaning
-Services                                                  , 42  ,  Private Security Sector Provident Fund
+Netcovision t/a 911 Security & Cleaning Services                                                  , 42  ,  Private Security Sector Provident Fund
 Papamani Reaction (Pty) Ltd                               , 42  ,  Private Security Sector Provident Fund
 Scorpion Risk Holdings (Pty) Ltd                          , 42  ,  Private Security Sector Provident Fund
 Securcorp (Pty) Ltd                                       , 42  ,  Private Security Sector Provident Fund
@@ -1807,22 +1790,18 @@ Services by MGM (Pty) Ltd                                 , 42  ,  Private Secur
 Sthenhla Investments CC                                   , 42  ,  Private Security Sector Provident Fund
 Top Class Asset Protection                                , 42  ,  Private Security Sector Provident Fund
 Waphatha Group (Pty) Ltd                                  , 42  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-King's Comfort Holding (Pty) Ltd                          , 42  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-QF Designs CC                                             , 42  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Planet Seating CC                                         , 42  ,  Cape Provident Fund
+
+King's Comfort Holding (Pty) Ltd                          , 42  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+QF Designs CC                                             , 42  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Planet Seating CC                                         , 42  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Dunns - a Division of Pepkor Speciality
 Stores (Pty) Ltd                                          , 41  ,  SACCAWU National Provident Fund
 N.G.R. Liquors (Pty) Ltd                                  , 41  ,  SACCAWU National Provident Fund
 Aludar 536                                                , 41  ,  Private Security Sector Provident Fund
 Best Enough Trading and Projects 147 CC                   , 41  ,  Private Security Sector Provident Fund
-Black Body Force t/a Black Body Force
-Security                                                  , 41  ,  Private Security Sector Provident Fund
+Black Body Force t/a Black Body Force Security                                                  , 41  ,  Private Security Sector Provident Fund
 Diamond Towers                                            , 41  ,  Private Security Sector Provident Fund
 Ebs Security                                              , 41  ,  Private Security Sector Provident Fund
 Izimbila Security                                         , 41  ,  Private Security Sector Provident Fund
@@ -1859,12 +1838,10 @@ Services                                                  , 40  ,  Private Secur
 Tahuti Trading 121 CC t/a MBA Security                    , 40  ,  Private Security Sector Provident Fund
 Texcor Forty Eight CC t/a Wain Carew
 Security                                                  , 40  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Bloemfontein Upholsterers (Pty) Ltd                       , 40  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-River Woods Manufacturing CC                              , 40  ,  Cape Provident Fund
+
+Bloemfontein Upholsterers (Pty) Ltd                       , 40  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+River Woods Manufacturing CC                              , 40  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Am Guard                                                  , 39  ,  Private Security Sector Provident Fund
 Be-khaye’s Trading Enterprise                             , 39  ,  Private Security Sector Provident Fund
 Daka Protection Services                                  , 39  ,  Private Security Sector Provident Fund
@@ -2743,60 +2720,45 @@ K2018471770 (South Africa) (Pty) Ltd                      , 19  ,  Cape Providen
                                                                    Manufacturing Industry of the Western
 Umvundla Investments No 6 (Pty) Ltd                       , 19  ,  Cape Provident Fund
 Ngqushwa                                                  , 18  ,  Municipal Councillors Pension Fund
-Africayethu Trading (Pty) Ltd t/a
-Africayethu Security Services                             , 18  ,  Private Security Sector Provident Fund
+Africayethu Trading (Pty) Ltd t/a Africayethu Security Services                             , 18  ,  Private Security Sector Provident Fund
 Ares Protection                                           , 18  ,  Private Security Sector Provident Fund
 Armrite                                                   , 18  ,  Private Security Sector Provident Fund
 Batlokwa Group (Pty) Ltd                                  , 18  ,  Private Security Sector Provident Fund
 BSS - Be Security Smart                                   , 18  ,  Private Security Sector Provident Fund
-Chantell Michelle Conan Security t/a CMC
-Security                                                  , 18  ,  Private Security Sector Provident Fund
+Chantell Michelle Conan Security t/a CMC Security                                                  , 18  ,  Private Security Sector Provident Fund
 Civa CCTV Rental (Pty) Ltd                                , 18  ,  Private Security Sector Provident Fund
 Deks Security Services (Pty) Ltd                          , 18  ,  Private Security Sector Provident Fund
 Extrasec Security Services (Pty) Ltd                      , 18  ,  Private Security Sector Provident Fund
-H D B Security Services t/a
-Makumahinkwaswo Trading                                   , 18  ,  Private Security Sector Provident Fund
+H D B Security Services t/a Makumahinkwaswo Trading                                   , 18  ,  Private Security Sector Provident Fund
 Kill Crime Security Services                              , 18  ,  Private Security Sector Provident Fund
 Magebeni Trading (Pty) Ltd                                , 18  ,  Private Security Sector Provident Fund
 Mobeni Integraded Systems (Pty) Ltd                       , 18  ,  Private Security Sector Provident Fund
-Mosa Lesareng Trading and Projects ta
-MLTP Security                                             , 18  ,  Private Security Sector Provident Fund
+Mosa Lesareng Trading and Projects ta MLTP Security                                             , 18  ,  Private Security Sector Provident Fund
 Nkarabe Protection Services                               , 18  ,  Private Security Sector Provident Fund
 Noa Faz Mal Ta Elti Security                              , 18  ,  Private Security Sector Provident Fund
-Patronella Swinheny Cleaning and Security
-Solutions                                                 , 18  ,  Private Security Sector Provident Fund
+Patronella Swinheny Cleaning and Security Solutions                                                 , 18  ,  Private Security Sector Provident Fund
 PHP Armed Response                                        , 18  ,  Private Security Sector Provident Fund
 Roman Professional Security                               , 18  ,  Private Security Sector Provident Fund
 Stryker Special Security Projects (Pty) Ltd               , 18  ,  Private Security Sector Provident Fund
-The Nobes Excellent Logistics ta Nobes
-Security Services                                         , 18  ,  Private Security Sector Provident Fund
+The Nobes Excellent Logistics ta Nobes Security Services                                         , 18  ,  Private Security Sector Provident Fund
 TSG Security Services                                     , 18  ,  Private Security Sector Provident Fund
-Ziwaphi Crime Protection ta ZCP Security
-Service                                                   , 18  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Adayas Sportswear CC                                      , 18  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-David Tlale                                               , 18  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Satyavimala Clothing                                      , 18  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Spring Source Trading 168 CC                              , 18  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Maluti Woodworx CC                                        , 18  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-1 Stop Furniture (Pty) Ltd                                , 18  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Bed Mecca (Pty) Ltd                                       , 18  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Fox and Firely (Pty) Ltd                                  , 18  ,  Cape Provident Fund
+Ziwaphi Crime Protection ta ZCP Security Service                                                   , 18  ,  Private Security Sector Provident Fund
+
+Adayas Sportswear CC                                      , 18  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+David Tlale                                               , 18  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Satyavimala Clothing                                      , 18  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Spring Source Trading 168 CC                              , 18  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Maluti Woodworx CC                                        , 18  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+1 Stop Furniture (Pty) Ltd                                , 18  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Bed Mecca (Pty) Ltd                                       , 18  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Fox and Firely (Pty) Ltd                                  , 18  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Brit                                                      , 17  ,  Leather Industry Provident Fund
 Campbell Armoury                                          , 17  ,  Leather Industry Provident Fund
 Top Shoes                                                 , 17  ,  Leather Industry Provident Fund
@@ -2826,10 +2788,9 @@ Madibeng                                                  , 17  ,               
 Maquasi Hills                                             , 17  ,                         Municipal Councillors Pension Fund
 Moses Kotane                                              , 17  ,                         Municipal Councillors Pension Fund
 West Coast                                                , 17  ,                         Municipal Councillors Pension Fund
-                                                                   Consolidated Retirement Fund for Local
-Thembelihle Local Municipality                            , 17  ,  Government
-Amari Risk Solutions (Pty) Ltd t/a Africa
-Secured                                                   , 17  ,  Private Security Sector Provident Fund
+
+Thembelihle Local Municipality                            , 17  , Consolidated Retirement Fund for Local  Government
+Amari Risk Solutions (Pty) Ltd t/a Africa Secured                                                   , 17  ,  Private Security Sector Provident Fund
 BA Protection Security Services                           , 17  ,  Private Security Sector Provident Fund
 Commercial Protection Services (Pty) Ltd                  , 17  ,  Private Security Sector Provident Fund
 Elegant Management Solutions                              , 17  ,  Private Security Sector Provident Fund
@@ -2840,15 +2801,12 @@ Gold Squad Security (Pty) Ltd                             , 17  ,  Private Secur
 Igovu Protection Services                                 , 17  ,  Private Security Sector Provident Fund
 Ilitye Lesiseko Security Services                         , 17  ,  Private Security Sector Provident Fund
 Inkwe Security Services Group (Pty) Ltd                   , 17  ,  Private Security Sector Provident Fund
-Kabemziwa Trading and Projects t/a KTP
-Security Services                                         , 17  ,  Private Security Sector Provident Fund
+Kabemziwa Trading and Projects t/a KTP Security Services                                         , 17  ,  Private Security Sector Provident Fund
 Ke Nna Malobise Security and Projects                     , 17  ,  Private Security Sector Provident Fund
 KT Works (Pty) Ltd t/a KT Works                           , 17  ,  Private Security Sector Provident Fund
 Linda Security                                            , 17  ,  Private Security Sector Provident Fund
 Lodge Services (Pty) Ltd                                  , 17  ,  Private Security Sector Provident Fund
-Magatsheni Amahle Trading Enterprise
-(Pty) Ltd ta Magatsheni Protection
-Services                                                  , 17  ,  Private Security Sector Provident Fund
+Magatsheni Amahle Trading Enterprise (Pty) Ltd ta Magatsheni Protection Services                                                  , 17  ,  Private Security Sector Provident Fund
 Milnex 243 t/a Credo Guardian                             , 17  ,  Private Security Sector Provident Fund
 Motlhabane Risk Management Services                       , 17  ,  Private Security Sector Provident Fund
 Mphemahlo Risk Services (Pty) Ltd                         , 17  ,  Private Security Sector Provident Fund
@@ -2856,8 +2814,7 @@ Mputsu Security Services (Pty) Ltd                        , 17  ,  Private Secur
 Mtlhakaza Security Services and Projects                  , 17  ,  Private Security Sector Provident Fund
 Neo Solutions                                             , 17  ,  Private Security Sector Provident Fund
 Nomgwenya Security and Trading CC                         , 17  ,  Private Security Sector Provident Fund
-Nyta Security (Pty) Ltd t/a black ops
-Security Services                                         , 17  ,  Private Security Sector Provident Fund
+Nyta Security (Pty) Ltd t/a black ops Security Services                                         , 17  ,  Private Security Sector Provident Fund
 Reliable Guards Security & Cleaning CC                    , 17  ,  Private Security Sector Provident Fund
 Snyman & Kilian Beleggings (Pty) Ltd t/a
 AC Security                                               , 17  ,  Private Security Sector Provident Fund
@@ -2866,21 +2823,17 @@ SWB Security Gauteng (Pty) Ltd                            , 17  ,  Private Secur
 Terakae Services                                          , 17  ,  Private Security Sector Provident Fund
 Themba Ukukhanya Security                                 , 17  ,  Private Security Sector Provident Fund
 Vart Security Services (Pty) Ltd                          , 17  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Oracle 3d (Pty) Ltd                                       , 17  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-CN Design Furniture (Pty) Ltd                             , 17  ,  Cape Provident Fund
+
+Oracle 3d (Pty) Ltd                                       , 17  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+CN Design Furniture (Pty) Ltd                             , 17  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Resman (Pty) Ltd                                          , 16  ,  SACCAWU National Provident Fund
 Pick 'n Pay Kwathema                                      , 16  ,  SACCAWU National Provident Fund
 Vasco Dagama Green Harvest                                , 16  ,  SACCAWU National Provident Fund
 Africa Protection                                         , 16  ,  Private Security Sector Provident Fund
 African Compass Trading 246CC                             , 16  ,  Private Security Sector Provident Fund
-Bathobele Security Primary Co-operative
-Limited                                                   , 16  ,  Private Security Sector Provident Fund
-Cash Asset Trading and Projects t/a CAT
-Security Services                                         , 16  ,  Private Security Sector Provident Fund
+Bathobele Security Primary Co-operative Limited                                                   , 16  ,  Private Security Sector Provident Fund
+Cash Asset Trading and Projects t/a CAT Security Services                                         , 16  ,  Private Security Sector Provident Fund
 Clapham High School                                       , 16  ,  Private Security Sector Provident Fund
 Dis-chem Security                                         , 16  ,  Private Security Sector Provident Fund
 Drone Ops (Pty) Ltd                                       , 16  ,  Private Security Sector Provident Fund
@@ -2891,26 +2844,20 @@ Ml Asset Management                                       , 16  ,  Private Secur
 Mokato Security Services and Projects                     , 16  ,  Private Security Sector Provident Fund
 Mosale Security Services (Pty) Ltd                        , 16  ,  Private Security Sector Provident Fund
 Noname Trading CC                                         , 16  ,  Private Security Sector Provident Fund
-PCP Petha Group SA (Pty) Ltd t/a PGS
-Security                                                  , 16  ,  Private Security Sector Provident Fund
+PCP Petha Group SA (Pty) Ltd t/a PGS Security                                                  , 16  ,  Private Security Sector Provident Fund
 Recon Tactical Services (Pty) Ltd                         , 16  ,  Private Security Sector Provident Fund
-RTR Rapid Tactical Response Trading as
-Rapid Tactical Response                                   , 16  ,  Private Security Sector Provident Fund
-Spartans Protection and Cleaning ta Divine
-Watch Security and Cleaning                               , 16  ,  Private Security Sector Provident Fund
+RTR Rapid Tactical Response Trading as Rapid Tactical Response                                   , 16  ,  Private Security Sector Provident Fund
+Spartans Protection and Cleaning ta Divine Watch Security and Cleaning                               , 16  ,  Private Security Sector Provident Fund
 Swiss Security Solutions (Pty) Ltd                        , 16  ,  Private Security Sector Provident Fund
 Titanium Securitas Garrison                               , 16  ,  Private Security Sector Provident Fund
 Waygard Security SA                                       , 16  ,  Private Security Sector Provident Fund
 ZSS Security                                              , 16  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Embroid Africa                                            , 16  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Sew & Stitch                                              , 16  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Oil Stoffeerders CC                                       , 16  ,  Cape Provident Fund
+
+Embroid Africa                                            , 16  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Sew & Stitch                                              , 16  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Oil Stoffeerders CC                                       , 16  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Ramdanee Investments                                      , 15  ,  Leather Industry Provident Fund
 Nala                                                      , 15  ,  Municipal Councillors Pension Fund
 Mandeni                                                   , 15  ,  Municipal Councillors Pension Fund
@@ -2920,12 +2867,11 @@ Dikgatlong                                                , 15  ,  Municipal Cou
 Rustenburg                                                , 15  ,  Municipal Councillors Pension Fund
 Panjivan and Brothers (Pty) Ltd                           , 15  ,  SACCAWU National Provident Fund
 A.M. Factory shop                                         , 15  ,  SACCAWU National Provident Fund
-                                                                   Consolidated Retirement Fund for Local
-Kai !garib Municipality                                   , 15  ,  Government
+
+Kai !garib Municipality                                   , 15  , Consolidated Retirement Fund for Local  Government
 Tokologo Local Municipality                               , 15  ,  National Fund for Municipal Workers
 442 Protection                                            , 15  ,  Private Security Sector Provident Fund
-Basiya Group (Pty) Ltd t/a Basiya Group
-Investments                                               , 15  ,  Private Security Sector Provident Fund
+Basiya Group (Pty) Ltd t/a Basiya Group Investments                                               , 15  ,  Private Security Sector Provident Fund
 Blueprint Associates                                      , 15  ,  Private Security Sector Provident Fund
 Byl Security Group (Pty) Ltd                              , 15  ,  Private Security Sector Provident Fund
 Cocotiva                                                  , 15  ,  Private Security Sector Provident Fund
@@ -2936,18 +2882,15 @@ Gumani Risk Management (Pty) Ltd                          , 15  ,  Private Secur
 Intruder Defence                                          , 15  ,  Private Security Sector Provident Fund
 JJ intrust Security t/a intrust Security                  , 15  ,  Private Security Sector Provident Fund
 Kalimani Gonondo                                          , 15  ,  Private Security Sector Provident Fund
-Kgotso Mokone Traders CC t/a Carewell
-Emergencies Ambulance                                     , 15  ,  Private Security Sector Provident Fund
-Mathabela Investment (Pty) Ltd t/a On Call
-Protection Services                                       , 15  ,  Private Security Sector Provident Fund
+Kgotso Mokone Traders CC t/a Carewell Emergencies Ambulance                                     , 15  ,  Private Security Sector Provident Fund
+Mathabela Investment (Pty) Ltd t/a On Call Protection Services                                       , 15  ,  Private Security Sector Provident Fund
 Melmo Group of Companies (Pty) Ltd                        , 15  ,  Private Security Sector Provident Fund
 Ngwenyama Trading 55 CC                                   , 15  ,  Private Security Sector Provident Fund
 Nicholas Frederik and Duncan                              , 15  ,  Private Security Sector Provident Fund
 P I Services                                              , 15  ,  Private Security Sector Provident Fund
 PHP Security Northwest (Pty) Ltd                          , 15  ,  Private Security Sector Provident Fund
 Phuhlani Bafazi Construction                              , 15  ,  Private Security Sector Provident Fund
-Qamata Trading and Projects ta Mbala
-Security and Cleaning Services                            , 15  ,  Private Security Sector Provident Fund
+Qamata Trading and Projects ta Mbala Security and Cleaning Services                            , 15  ,  Private Security Sector Provident Fund
 R Protections (Pty) Ltd                                   , 15  ,  Private Security Sector Provident Fund
 Securezza Guarding (Pty) Ltd                              , 15  ,  Private Security Sector Provident Fund
 Siyefana Security Services                                , 15  ,  Private Security Sector Provident Fund
@@ -2958,23 +2901,17 @@ Umalusi Risk Solutions                                    , 15  ,  Private Secur
 Watchdogz Tactical and Security Services                  , 15  ,  Private Security Sector Provident Fund
 Wolf Security Solutions                                   , 15  ,  Private Security Sector Provident Fund
 Zethembe Security CC                                      , 15  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Felix                                                     , 15  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-SOS Embroidery                                            , 15  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-CDR Contracts (Pty) Ltd                                   , 15  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Hassen Bhyat                                              , 15  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Technochair CC                                            , 15  ,  Cape Provident Fund
-African Soul Footwear (prev Bizzaro Shoe
-Mnft CC)                                                  , 14  ,  Leather Industry Provident Fund
+
+Felix                                                     , 15  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+SOS Embroidery                                            , 15  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+CDR Contracts (Pty) Ltd                                   , 15  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Hassen Bhyat                                              , 15  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Technochair CC                                            , 15  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+African Soul Footwear (prev Bizzaro Shoe Mnft CC)                                                  , 14  ,  Leather Industry Provident Fund
 Caprini Footwear (Pty) Ltd                                , 14  ,  Leather Industry Provident Fund
 Mass Hire Limpopo (Pty) Ltd                               , 14  ,  Old Mutual Superfund Pension Fund
 Loots Safe Movers (Pty) Ltd                               , 14  ,  Old Mutual Superfund Provident Fund
@@ -2986,44 +2923,36 @@ Meat Supply                                               , 14  ,  SACCAWU Natio
 Cape Quarter Spar                                         , 14  ,  SACCAWU National Provident Fund
 Mamusa                                                    , 14  ,  Municipal Workers’ Retirement Fund
 Amazwe Cleaners and Trading                               , 14  ,  Private Security Sector Provident Fund
-Bhamzin Security Services (Pty) Ltd t/a
-bhamzin Trading                                           , 14  ,  Private Security Sector Provident Fund
+Bhamzin Security Services (Pty) Ltd t/a bhamzin Trading                                           , 14  ,  Private Security Sector Provident Fund
 Capital Ship Trading 605                                  , 14  ,  Private Security Sector Provident Fund
 Escort Guarding Protection                                , 14  ,  Private Security Sector Provident Fund
 Henque 3961 CC                                            , 14  ,  Private Security Sector Provident Fund
 High Caliber Security                                     , 14  ,  Private Security Sector Provident Fund
-Intozomlilo Trading and Projects t/a
-intozomlilo Security Services                             , 14  ,  Private Security Sector Provident Fund
+Intozomlilo Trading and Projects t/a intozomlilo Security Services                             , 14  ,  Private Security Sector Provident Fund
 K2015154291 (South Africa)                                , 14  ,  Private Security Sector Provident Fund
 L T C holding ta LTC Security                             , 14  ,  Private Security Sector Provident Fund
 LSN Security Services (Pty) Ltd                           , 14  ,  Private Security Sector Provident Fund
-Mancinza Civil Contractors and Road ta V
-Power Security                                            , 14  ,  Private Security Sector Provident Fund
+Mancinza Civil Contractors and Road ta V Power Security                                            , 14  ,  Private Security Sector Provident Fund
 Mantis Risk Solutions                                     , 14  ,  Private Security Sector Provident Fund
 Mlusile                                                   , 14  ,  Private Security Sector Provident Fund
-Mpambanyoni Investigations (Pty) Ltd t/a
-Executive Neighbourhood Services                          , 14  ,  Private Security Sector Provident Fund
+Mpambanyoni Investigations (Pty) Ltd t/a Executive Neighbourhood Services                          , 14  ,  Private Security Sector Provident Fund
 Perbro Group (Pty) Ltd                                    , 14  ,  Private Security Sector Provident Fund
-Pilgrim Business Holdings ta Pilgrim
-Protection Services                                       , 14  ,  Private Security Sector Provident Fund
+Pilgrim Business Holdings ta Pilgrim Protection Services                                       , 14  ,  Private Security Sector Provident Fund
 Techno Security Force (Pty) Ltd                           , 14  ,  Private Security Sector Provident Fund
 Topdem Security and Projects                              , 14  ,  Private Security Sector Provident Fund
 VB and Sons Security Services                             , 14  ,  Private Security Sector Provident Fund
 Watchdog Security                                         , 14  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Retex (Knitting)                                          , 14  ,  Chamber Provident Fund
+
+Retex (Knitting)                                          , 14  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund2
 Nobles Transport CC                                       , 14  ,  SARPBAC Retirement Fund
 Mofago Supermarket                                        , 13  ,  SACCAWU National Provident Fund
 Tokologo                                                  , 13  ,  Municipal Workers’ Retirement Fund
-                                                                   Corporate Selection Umbrella Retirement
-Pather and Pather Attorneys                               , 13  ,  Fund No 2
+
+Pather and Pather Attorneys                               , 13  , Corporate Selection Umbrella Retirement  Fund No 2
 Abc Compu Security Systems CC                             , 13  ,  Private Security Sector Provident Fund
 Alcari 433                                                , 13  ,  Private Security Sector Provident Fund
-BCC Wealth (Pty) Ltd t/a Ihlo Security
-Management                                                , 13  ,  Private Security Sector Provident Fund
-Black Operations Security Solutions (Pty)
-Ltd t/a Black Ops                                         , 13  ,  Private Security Sector Provident Fund
+BCC Wealth (Pty) Ltd t/a Ihlo Security Management                                                , 13  ,  Private Security Sector Provident Fund
+Black Operations Security Solutions (Pty) Ltd t/a Black Ops                                         , 13  ,  Private Security Sector Provident Fund
 Black Torres 96 CC                                        , 13  ,  Private Security Sector Provident Fund
 Bonang Security Services                                  , 13  ,  Private Security Sector Provident Fund
 Engle Trading Enterprise                                  , 13  ,  Private Security Sector Provident Fund
@@ -3031,35 +2960,26 @@ Global 247 Security Services t/a gss                      , 13  ,  Private Secur
 Ilembe Security (Pty) Ltd                                 , 13  ,  Private Security Sector Provident Fund
 Kearabilwe Security Services                              , 13  ,  Private Security Sector Provident Fund
 L molema Security                                         , 13  ,  Private Security Sector Provident Fund
-Laibero Trading CC t/a laibero Security
-Services                                                  , 13  ,  Private Security Sector Provident Fund
+Laibero Trading CC t/a laibero Security Services                                                  , 13  ,  Private Security Sector Provident Fund
 Lupenyo Security Services                                 , 13  ,  Private Security Sector Provident Fund
 Mzamondabe (Pty) Ltd                                      , 13  ,  Private Security Sector Provident Fund
 Ndate Bbonga Projects                                     , 13  ,  Private Security Sector Provident Fund
-Satenga Security Services t/a Satenga
-Trading and Projects                                      , 13  ,  Private Security Sector Provident Fund
+Satenga Security Services t/a Satenga Trading and Projects                                      , 13  ,  Private Security Sector Provident Fund
 Special duty Unit (Pty) Ltd ta SDU                        , 13  ,  Private Security Sector Provident Fund
 Ugebhezi Security                                         , 13  ,  Private Security Sector Provident Fund
-ZNC Investments (Pty) Ltd ta ZNC Risk
-Management Specialist                                     , 13  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Drewmach                                                  , 13  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Retex Clothing                                            , 13  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-First-rate Home Improvements and Shop                              Manufacturing Industry of the Western
-Fitting (Pty) Ltd                                         , 13  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-Foam and More Upholstery Supplies (Pty)                            Manufacturing Industry of the Western
-Ltd                                                       , 13  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-AXP Manufacturing (Pty) Ltd                               , 13  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-K N S Upholstery Solutions (Pty) Ltd                      , 13  ,  Cape Provident Fund
+ZNC Investments (Pty) Ltd ta ZNC Risk Management Specialist                                     , 13  ,  Private Security Sector Provident Fund
+
+Drewmach                                                  , 13  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Retex Clothing                                            , 13  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Fitting (Pty) Ltd                                         , 13  , Bargaining Council for the Furniture First-rate Home Improvements and Shop                              Manufacturing Industry of the Western  Cape Provident Fund
+
+Ltd                                                       , 13  , Bargaining Council for the Furniture Foam and More Upholstery Supplies (Pty)                            Manufacturing Industry of the Western  Cape Provident Fund
+
+AXP Manufacturing (Pty) Ltd                               , 13  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+K N S Upholstery Solutions (Pty) Ltd                      , 13  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Tito Trans CC                                             , 13  ,  SARPBAC Retirement Fund
 Smith S Saddlery & Repair Depot                           , 12  ,  Leather Industry Provident Fund
 Pule Pula General Trading (Pty) Ltd                       , 12  ,  Old Mutual Superfund Pension Fund
@@ -3067,27 +2987,23 @@ Febnet Investments (Pty) Ltd                              , 12  ,  Old Mutual Su
 HT Pelatona Projects (Pty) Ltd                            , 12  ,  Old Mutual Superfund Provident Fund
 Marais Foods CC t/a Nandos                                , 12  ,  Old Mutual Superfund Provident Fund
 Myertal Tactical Security (Pty) Ltd                       , 12  ,  Old Mutual Superfund Provident Fund
-Overton International Trade (Pty) Ltd t/a
-Italcotto                                                 , 12  ,  Old Mutual Superfund Provident Fund
+Overton International Trade (Pty) Ltd t/a Italcotto                                                 , 12  ,  Old Mutual Superfund Provident Fund
 Tshwaraganang & Associates CC                             , 12  ,  Old Mutual Superfund Provident Fund
 Inxuba yethemba                                           , 12  ,  Municipal Councillors Pension Fund
 Moretele                                                  , 12  ,  Municipal Councillors Pension Fund
 Ramotshere moiloa                                         , 12  ,  Municipal Councillors Pension Fund
 National Data Systems (Pty) Ltd                           , 12  ,  SACCAWU National Provident Fund
-Kraaines Garden Centre-kraaines Interior-
-Emslie Furniture and Barleda farm                         , 12  ,  SACCAWU National Provident Fund
+Kraaines Garden Centre-kraaines Interior- Emslie Furniture and Barleda farm                         , 12  ,  SACCAWU National Provident Fund
 Ermelo Superspar                                          , 12  ,  SACCAWU National Provident Fund
 Abasizi Services Group                                    , 12  ,  Private Security Sector Provident Fund
 Camsec El CC t/a Camsec                                   , 12  ,  Private Security Sector Provident Fund
 Central Executive Networks Hrs                            , 12  ,  Private Security Sector Provident Fund
 Detect Safety and Security                                , 12  ,  Private Security Sector Provident Fund
-Dimo le Dikwena Security Services ta dd
-Security Services                                         , 12  ,  Private Security Sector Provident Fund
+Dimo le Dikwena Security Services ta dd Security Services                                         , 12  ,  Private Security Sector Provident Fund
 Divergent Security ta Divergent Ops                       , 12  ,  Private Security Sector Provident Fund
 Elshonte Security Services                                , 12  ,  Private Security Sector Provident Fund
 Ex-co Security                                            , 12  ,  Private Security Sector Provident Fund
-Flatmont Enterprise (Pty) Ltd t/a Flatmont
-Security                                                  , 12  ,  Private Security Sector Provident Fund
+Flatmont Enterprise (Pty) Ltd t/a Flatmont Security                                                  , 12  ,  Private Security Sector Provident Fund
 Gac Risk Solutions                                        , 12  ,  Private Security Sector Provident Fund
 Gambu-W Security & Cleaning Services                      , 12  ,  Private Security Sector Provident Fund
 Guidline Management ta Federal Group                      , 12  ,  Private Security Sector Provident Fund
@@ -3100,42 +3016,34 @@ Mtyeswana Security Service                                , 12  ,  Private Secur
 Nikao Protection Services                                 , 12  ,  Private Security Sector Provident Fund
 PTR Consulting                                            , 12  ,  Private Security Sector Provident Fund
 Quick Bopha Security                                      , 12  ,  Private Security Sector Provident Fund
-Qyrhana Security and Cleaning Services
-CC                                                        , 12  ,  Private Security Sector Provident Fund
+Qyrhana Security and Cleaning Services CC                                                        , 12  ,  Private Security Sector Provident Fund
 Sebushi Security and Trading                              , 12  ,  Private Security Sector Provident Fund
 Sedibeng Protection                                       , 12  ,  Private Security Sector Provident Fund
 Sehlukene Security and Cleaning Projects                  , 12  ,  Private Security Sector Provident Fund
 Simanye Security Services                                 , 12  ,  Private Security Sector Provident Fund
 Swa Miswazi Busines Enterprise CC                         , 12  ,  Private Security Sector Provident Fund
 Zizi Security Services (Pty) Ltd                          , 12  ,  Private Security Sector Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Shalkim Manufacturers CC                                  , 12  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Buraaq beds CC                                            , 12  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-The Woodhouse Manufacturing (Pty) Ltd                     , 12  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Urban Upholstery Solutions (Pty) Ltd                      , 12  ,  Cape Provident Fund
+
+Shalkim Manufacturers CC                                  , 12  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Buraaq beds CC                                            , 12  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+The Woodhouse Manufacturing (Pty) Ltd                     , 12  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Urban Upholstery Solutions (Pty) Ltd                      , 12  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Frans Busdiens Bpk                                        , 12  ,  SARPBAC Retirement Fund
 Worcester Golf Club                                       , 11  ,  SACCAWU National Provident Fund
 Kai-Garib                                                 , 11  ,  Municipal Workers’ Retirement Fund
-                                                                   Corporate Selection Umbrella Retirement
-Robert Baichan Financial Services CC                      , 11  ,  Fund No 2
+
+Robert Baichan Financial Services CC                      , 11  , Corporate Selection Umbrella Retirement  Fund No 2
 Alvin Ganase Security CC                                  , 11  ,  Private Security Sector Provident Fund
 Aumap Holdings (Pty) Ltd                                  , 11  ,  Private Security Sector Provident Fund
-Bankveld Estate - Home Owners
-Association                                               , 11  ,  Private Security Sector Provident Fund
+Bankveld Estate - Home Owners Association                                               , 11  ,  Private Security Sector Provident Fund
 Blackpearl Solutions                                      , 11  ,  Private Security Sector Provident Fund
-Busiso Contracting CC Trading as Mfezi
-Security Richards Bay Ait                                 , 11  ,  Private Security Sector Provident Fund
+Busiso Contracting CC Trading as Mfezi Security Richards Bay Ait                                 , 11  ,  Private Security Sector Provident Fund
 CRA Merketing (Pty) Ltd                                   , 11  ,  Private Security Sector Provident Fund
 Foto Security Services t/a Foto Security                  , 11  ,  Private Security Sector Provident Fund
-Habi Ever Excellent Cleaning and Security
-Service                                                   , 11  ,  Private Security Sector Provident Fund
+Habi Ever Excellent Cleaning and Security Service                                                   , 11  ,  Private Security Sector Provident Fund
 Injabulo Trading                                          , 11  ,  Private Security Sector Provident Fund
 Justicia Investigations (Pty) Ltd                         , 11  ,  Private Security Sector Provident Fund
 Linda Intergrated Security                                , 11  ,  Private Security Sector Provident Fund
@@ -3143,10 +3051,8 @@ Mahosi Protection Services                                , 11  ,  Private Secur
 Mmapula Security Services and Projects                    , 11  ,  Private Security Sector Provident Fund
 NazCare                                                   , 11  ,  Private Security Sector Provident Fund
 Nice Flower Trading 53                                    , 11  ,  Private Security Sector Provident Fund
-Phefumola SM (Pty) Ltd ta Phefumola SM
-Security Services                                         , 11  ,  Private Security Sector Provident Fund
-Qhawe 1804 Trading t/a Qhawe Security
-Services                                                  , 11  ,  Private Security Sector Provident Fund
+Phefumola SM (Pty) Ltd ta Phefumola SM Security Services                                         , 11  ,  Private Security Sector Provident Fund
+Qhawe 1804 Trading t/a Qhawe Security Services                                                  , 11  ,  Private Security Sector Provident Fund
 R 15 Security Services                                    , 11  ,  Private Security Sector Provident Fund
 SMA Security Cape Town                                    , 11  ,  Private Security Sector Provident Fund
 Stoneford Country Estate                                  , 11  ,  Private Security Sector Provident Fund
@@ -3154,24 +3060,18 @@ Thabzo Security Services                                  , 11  ,  Private Secur
 The A Team task Force                                     , 11  ,  Private Security Sector Provident Fund
 Umbono Security CC                                        , 11  ,  Private Security Sector Provident Fund
 Zondubuvila Trading CC                                    , 11  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Liuch Trading                                             , 11  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Micah Kitchens CC                                         , 11  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Spartan Foam CC                                           , 11  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Stag Bow Merchandise (Pty) Ltd                            , 11  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Chair Up Upholstery (Pty) Ltd                             , 11  ,  Cape Provident Fund
+
+Liuch Trading                                             , 11  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Micah Kitchens CC                                         , 11  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Spartan Foam CC                                           , 11  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Stag Bow Merchandise (Pty) Ltd                            , 11  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Chair Up Upholstery (Pty) Ltd                             , 11  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Aero Natal (Pty) Ltd                                      , 10  ,  Old Mutual Superfund Pension Fund
-Maria Jose de Gouveia t/a Overland Hyper
-LTX                                                       , 10  ,  Old Mutual Superfund Pension Fund
+Maria Jose de Gouveia t/a Overland Hyper LTX                                                       , 10  ,  Old Mutual Superfund Pension Fund
 Mme re ka Thusa Trust Fund                                , 10  ,  Old Mutual Superfund Pension Fund
 Tau Klipspruit (Pty) Ltd                                  , 10  ,  Old Mutual Superfund Pension Fund
 Barrs Medical (Pty) Ltd                                   , 10  ,  Old Mutual Superfund Provident Fund
@@ -3183,34 +3083,29 @@ Pick 'n Pay Family Supermarket Bara City                  , 10  ,  SACCAWU Natio
 Makanyane Safari Lodge                                    , 10  ,  SACCAWU National Provident Fund
 Ikondile Civils                                           , 10  ,  SACCAWU National Provident Fund
 Mohokare                                                  , 10  ,  Municipal Workers’ Retirement Fund
-                                                                   Consolidated Retirement Fund for Local
-Dr Beyers Naude Municipality                              , 10  ,  Government
+
+Dr Beyers Naude Municipality                              , 10  , Consolidated Retirement Fund for Local  Government
 Dr Beyers Naude Local Municipality                        , 10  ,  National Fund for Municipal Workers
 Achievers 805                                             , 10  ,  Private Security Sector Provident Fund
 Amantshilibe Trading                                      , 10  ,  Private Security Sector Provident Fund
 Badisa Armed Response                                     , 10  ,  Private Security Sector Provident Fund
 Bella Security Services (Pty) Ltd                         , 10  ,  Private Security Sector Provident Fund
 Crimeops                                                  , 10  ,  Private Security Sector Provident Fund
-Da Champ Distribution t/a Da Champ
-Security Services                                         , 10  ,  Private Security Sector Provident Fund
+Da Champ Distribution t/a Da Champ Security Services                                         , 10  ,  Private Security Sector Provident Fund
 Ditaba CCTV & Guarding Solutions                          , 10  ,  Private Security Sector Provident Fund
 Divergent Guarding ta Divergent Ops                       , 10  ,  Private Security Sector Provident Fund
-Dyncorp Holdings ta Dyncorp Protection
-Services                                                  , 10  ,  Private Security Sector Provident Fund
+Dyncorp Holdings ta Dyncorp Protection Services                                                  , 10  ,  Private Security Sector Provident Fund
 Est Response & Security Services                          , 10  ,  Private Security Sector Provident Fund
-Kees Beyers chocolates t/a Fixed Wage
-Laborers                                                  , 10  ,  Private Security Sector Provident Fund
+Kees Beyers chocolates t/a Fixed Wage Laborers                                                  , 10  ,  Private Security Sector Provident Fund
 KRA Security and Projects                                 , 10  ,  Private Security Sector Provident Fund
 Maghty G Security CC                                      , 10  ,  Private Security Sector Provident Fund
-Nama-Khosi-San Security and General
-Services                                                  , 10  ,  Private Security Sector Provident Fund
+Nama-Khosi-San Security and General Services                                                  , 10  ,  Private Security Sector Provident Fund
 Nhlalenhle Electronics t/a Nhlalenhle                     , 10  ,  Private Security Sector Provident Fund
 NN Alarm Systems CC                                       , 10  ,  Private Security Sector Provident Fund
 NZ Risk Management CC                                     , 10  ,  Private Security Sector Provident Fund
 Oos-Kaap Sekuriteit Bpk                                   , 10  ,  Private Security Sector Provident Fund
 Phuthumajabu Construction and Projects                    , 10  ,  Private Security Sector Provident Fund
-Power Trans Import and Export t/a Section
-One Protection Services                                   , 10  ,  Private Security Sector Provident Fund
+Power Trans Import and Export t/a Section One Protection Services                                   , 10  ,  Private Security Sector Provident Fund
 Ramatsie Protection Services (Pty) Ltd                    , 10  ,  Private Security Sector Provident Fund
 RB Electrical Supplies ta National Security               , 10  ,  Private Security Sector Provident Fund
 Red Hawks Army Protection Projects                        , 10  ,  Private Security Sector Provident Fund
@@ -3222,68 +3117,51 @@ Tsunami Protection Services                               , 10  ,  Private Secur
 Van Eck Consulting Services                               , 10  ,  Private Security Sector Provident Fund
 Water Berry Trading 61 CC                                 , 10  ,  Private Security Sector Provident Fund
 Winzybee Protection and Projects                          , 10  ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Li Feng Textiles                                          , 10  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-M. Dolley (CB)                                            , 10  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Reapso                                                    , 10  ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Saphi (Knitting)                                          , 10  ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-De Wet Tech Kitchens CC                                   , 10  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-HTB Harry's House (Pty) Ltd                               , 10  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Indec Group (Pty) Ltd                                     , 10  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Delport Cabinetry Cut & Edge CC                           , 10  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Alto Door Manufacturers CC                                , 10  ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Mathilda Pretorius                                        , 10  ,  Cape Provident Fund
+
+Li Feng Textiles                                          , 10  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+M. Dolley (CB)                                            , 10  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Reapso                                                    , 10  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Saphi (Knitting)                                          , 10  , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+De Wet Tech Kitchens CC                                   , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+HTB Harry's House (Pty) Ltd                               , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Indec Group (Pty) Ltd                                     , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Delport Cabinetry Cut & Edge CC                           , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Alto Door Manufacturers CC                                , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Mathilda Pretorius                                        , 10  , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Baywear Clothing (Pty) Ltd                                , 9   ,  Old Mutual Superfund Pension Fund
 Nkonki KZN Pension Fund                                   , 9   ,  Old Mutual Superfund Pension Fund
 Enslins Senekal Inc                                       , 9   ,  Old Mutual Superfund Provident Fund
 Mntambo Financial Consulting CC                           , 9   ,  Old Mutual Superfund Provident Fund
-Mpojele General Trader & Projects (Pty)
-Ltd                                                       , 9   ,  Old Mutual Superfund Provident Fund
+Mpojele General Trader & Projects (Pty) Ltd                                                       , 9   ,  Old Mutual Superfund Provident Fund
 Volkers Appliances CC                                     , 9   ,  SACCAWU National Provident Fund
 Voltex (Pty) Ltd                                          , 9   ,  SACCAWU National Provident Fund
 Leo Superkos CC                                           , 9   ,  SACCAWU National Provident Fund
 Pick 'n Pay Goldman                                       , 9   ,  SACCAWU National Provident Fund
-                                                                   Corporate Selection Umbrella Retirement
-Latjis Transport Services (Pty) Ltd                       , 9   ,  Fund No 2
+
+Latjis Transport Services (Pty) Ltd                       , 9   , Corporate Selection Umbrella Retirement  Fund No 2
 Alexander Force (Pty) Ltd                                 , 9   ,  Private Security Sector Provident Fund
-Ankhesiwe (Pty) Ltd t/a the Brave Security
-Services                                                  , 9   ,  Private Security Sector Provident Fund
+Ankhesiwe (Pty) Ltd t/a the Brave Security Services                                                  , 9   ,  Private Security Sector Provident Fund
 Avignon Homeowners association                            , 9   ,  Private Security Sector Provident Fund
-Bakamawisa Security and Projects ta MLN
-Security Services                                         , 9   ,  Private Security Sector Provident Fund
+Bakamawisa Security and Projects ta MLN Security Services                                         , 9   ,  Private Security Sector Provident Fund
 Bilane Security CC                                        , 9   ,  Private Security Sector Provident Fund
 Cacadu Security Services (Pty) Ltd                        , 9   ,  Private Security Sector Provident Fund
 Excalibur Security Services                               , 9   ,  Private Security Sector Provident Fund
-Gaqa Security Maintenance and Cleaning
-Services                                                  , 9   ,  Private Security Sector Provident Fund
+Gaqa Security Maintenance and Cleaning Services                                                  , 9   ,  Private Security Sector Provident Fund
 Guardmax (Pty) Ltd                                        , 9   ,  Private Security Sector Provident Fund
 Hazhackney Advanced Trading                               , 9   ,  Private Security Sector Provident Fund
-Impolompolo Protection and Training
-Services ta Impolompolo Security                          , 9   ,  Private Security Sector Provident Fund
+Impolompolo Protection and Training Services ta Impolompolo Security                          , 9   ,  Private Security Sector Provident Fund
 IP Dynamics (Pty) Ltd                                     , 9   ,  Private Security Sector Provident Fund
-Isakhiwo Networks (Pty) Ltd t/a Isakhiwo
-Networks Protection Services                              , 9   ,  Private Security Sector Provident Fund
-Judy and Newie Projects (Pty) Ltd t/a J & N
-Protection                                                , 9   ,  Private Security Sector Provident Fund
+Isakhiwo Networks (Pty) Ltd t/a Isakhiwo Networks Protection Services                              , 9   ,  Private Security Sector Provident Fund
+Judy and Newie Projects (Pty) Ltd t/a J & N Protection                                                , 9   ,  Private Security Sector Provident Fund
 Khesande Security Services                                , 9   ,  Private Security Sector Provident Fund
 Khobi Security                                            , 9   ,  Private Security Sector Provident Fund
 Kno Security and Supply Services (Pty) Ltd                , 9   ,  Private Security Sector Provident Fund
@@ -3292,9 +3170,7 @@ Nedtex 422 CC                                             , 9   ,  Private Secur
 Njoloba Security Services                                 , 9   ,  Private Security Sector Provident Fund
 Prestige Security Services matatiele                      , 9   ,  Private Security Sector Provident Fund
 Sanchoweb (Pty) Ltd                                       , 9   ,  Private Security Sector Provident Fund
-Sinemibono Security Primary Co-operative
-Limited t/a Sinemibono Security primary
-coop                                                      , 9   ,  Private Security Sector Provident Fund
+Sinemibono Security Primary Co-operative Limited t/a Sinemibono Security primary coop                                                      , 9   ,  Private Security Sector Provident Fund
 Skyewatch Security                                        , 9   ,  Private Security Sector Provident Fund
 Sondiya Protection Services                               , 9   ,  Private Security Sector Provident Fund
 Striving Mind Trading 519                                 , 9   ,  Private Security Sector Provident Fund
@@ -3302,83 +3178,63 @@ Toverify (Pty) Ltd                                        , 9   ,  Private Secur
 Transport Protection Services                             , 9   ,  Private Security Sector Provident Fund
 Unified Risk Management CC                                , 9   ,  Private Security Sector Provident Fund
 W and R Security                                          , 9   ,  Private Security Sector Provident Fund
-Wise Guy Academy t/a Wise guy Security
-Training Academy                                          , 9   ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Dew Office                                                , 9   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Morgan Pillay Cloth                                       , 9   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Phoenix Industrial & Safety Su                            , 9   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Seema Printing                                            , 9   ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Mitch Kitchens CC                                         , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Good Knight Bedding (Pty) Ltd                             , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Market Your Business CC                                   , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-QH Exclusive Furnishers (Pty) Ltd                         , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Double Stars Trading 66 CC                                , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Rink van Kleef                                            , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Modellers of Antique Furniture (Pty) Ltd                  , 9   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Nu-Scotland Timber Sales CC                               , 9   ,  Cape Provident Fund
+Wise Guy Academy t/a Wise guy Security Training Academy                                          , 9   ,  Private Security Sector Provident Fund
+
+Dew Office                                                , 9   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Morgan Pillay Cloth                                       , 9   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Phoenix Industrial & Safety Su                            , 9   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Seema Printing                                            , 9   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Mitch Kitchens CC                                         , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Good Knight Bedding (Pty) Ltd                             , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Market Your Business CC                                   , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+QH Exclusive Furnishers (Pty) Ltd                         , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Double Stars Trading 66 CC                                , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Rink van Kleef                                            , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Modellers of Antique Furniture (Pty) Ltd                  , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Nu-Scotland Timber Sales CC                               , 9   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Hyperland Bela Bela                                       , 8   ,  SACCAWU National Provident Fund
-                                                                   Corporate Selection Umbrella Retirement
-Rua Construction and Projects (Pty) Ltd                   , 8   ,  Fund No 2
+
+Rua Construction and Projects (Pty) Ltd                   , 8   , Corporate Selection Umbrella Retirement  Fund No 2
 Botlhale le Boneilwe Trading Enterprise                   , 8   ,  Private Security Sector Provident Fund
 Brincor                                                   , 8   ,  Private Security Sector Provident Fund
 Bullet Proof Unit                                         , 8   ,  Private Security Sector Provident Fund
-Chairman Projects and Security Services
-t/a Chairman Security Services                            , 8   ,  Private Security Sector Provident Fund
+Chairman Projects and Security Services t/a Chairman Security Services                            , 8   ,  Private Security Sector Provident Fund
 Control and Detection Security                            , 8   ,  Private Security Sector Provident Fund
 Dephethogo Trading                                        , 8   ,  Private Security Sector Provident Fund
 Eyesotope Solutions t/a Eyesotopes                        , 8   ,  Private Security Sector Provident Fund
 Fastrak Trading 75 CC                                     , 8   ,  Private Security Sector Provident Fund
 Gatalenna Holdings                                        , 8   ,  Private Security Sector Provident Fund
 General Siphiwe Security advisory                         , 8   ,  Private Security Sector Provident Fund
-Global Security Services and Training (Pty)
-Ltd                                                       , 8   ,  Private Security Sector Provident Fund
+Global Security Services and Training (Pty) Ltd                                                       , 8   ,  Private Security Sector Provident Fund
 Guard Pro Asset Protection t/a Guard Pro                  , 8   ,  Private Security Sector Provident Fund
 Infinite Prospects 160 CC                                 , 8   ,  Private Security Sector Provident Fund
 Izingwenya 210 Investments CC                             , 8   ,  Private Security Sector Provident Fund
-Kgori Security Services CC t/a Bafana
-Security Services, Cleaners & Private
-Investation                                               , 8   ,  Private Security Sector Provident Fund
+Kgori Security Services CC t/a Bafana Security Services, Cleaners & Private Investation                                               , 8   ,  Private Security Sector Provident Fund
 Kings Protection Services (Pty) Ltd                       , 8   ,  Private Security Sector Provident Fund
 Kuselani Security Services CC                             , 8   ,  Private Security Sector Provident Fund
 LCD technologies                                          , 8   ,  Private Security Sector Provident Fund
 LPS Corporate Security Services                           , 8   ,  Private Security Sector Provident Fund
 Macado Technologies                                       , 8   ,  Private Security Sector Provident Fund
-Market Demand Trading 608 (Pty) Ltd t/a
-Culive                                                    , 8   ,  Private Security Sector Provident Fund
+Market Demand Trading 608 (Pty) Ltd t/a Culive                                                    , 8   ,  Private Security Sector Provident Fund
 Muzi Hlongwane Security (Pty) Ltd                         , 8   ,  Private Security Sector Provident Fund
 Mzazi Protection Services                                 , 8   ,  Private Security Sector Provident Fund
 Mzunqaba Security and Cleaning Services                   , 8   ,  Private Security Sector Provident Fund
 NSA and Associates (Pty) Ltd                              , 8   ,  Private Security Sector Provident Fund
 Onarmor Security                                          , 8   ,  Private Security Sector Provident Fund
-Pivotal Security (Pty) Ltd t/a pivotal
-Security                                                  , 8   ,  Private Security Sector Provident Fund
+Pivotal Security (Pty) Ltd t/a pivotal Security                                                  , 8   ,  Private Security Sector Provident Fund
 Qhaphela Group                                            , 8   ,  Private Security Sector Provident Fund
-Safety Leaders Security Primary Co-
-operative Limited                                         , 8   ,  Private Security Sector Provident Fund
+Safety Leaders Security Primary Co- operative Limited                                         , 8   ,  Private Security Sector Provident Fund
 Secusol (Pty) Ltd                                         , 8   ,  Private Security Sector Provident Fund
 Selaki Security Services and Projects                     , 8   ,  Private Security Sector Provident Fund
 Sha'an technologies                                       , 8   ,  Private Security Sector Provident Fund
@@ -3387,110 +3243,78 @@ The CCs Group                                             , 8   ,  Private Secur
 Thubalethu Security CC                                    , 8   ,  Private Security Sector Provident Fund
 Tshira Tshashu Trading Enterprise                         , 8   ,  Private Security Sector Provident Fund
 Z Guard (Pty) Ltd                                         , 8   ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-A.E. Barlow (D&N)                                         , 8   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Moaparankwe                                               , 8   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Batsumi Projects                                          , 8   ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Cecil Nurse (Pty) Ltd                                     , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Pro-design Distributors CC                                , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-K R Maintenance CC                                        , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Offix Office Furniture CC                                 , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Texra (Pty) Ltd                                           , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Chocolate Box interiors CC                                , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Woodlam (Pty) Ltd                                         , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Zwidulo (Pty) Ltd                                         , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Has Been Office Furniture (Pty) Ltd                       , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-R.I. Lipovec                                              , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Designer Projects Palace (Pty) Ltd                        , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-The Cupboardtree (Pty) Ltd                                , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-EC Woodworth (Pty) Ltd                                    , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Lifestyle Kitchens CC                                     , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Furniture Factory Outlet (Pty) Ltd                        , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Furnworx Logistics (Pty) Ltd                              , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-G. Bell                                                   , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Board King (Pty) Ltd                                      , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Dawie Janse van Vuuren                                    , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Linea Classica Furniture Manufacturers CC                 , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Sinuous Lines Design (Pty) Ltd                            , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Unique Shelf 09 CC                                        , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Advidata Trading 663 CC                                   , 8   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Carel Greeff                                              , 8   ,  Cape Provident Fund
+
+A.E. Barlow (D&N)                                         , 8   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Moaparankwe                                               , 8   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Batsumi Projects                                          , 8   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Cecil Nurse (Pty) Ltd                                     , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Pro-design Distributors CC                                , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+K R Maintenance CC                                        , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Offix Office Furniture CC                                 , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Texra (Pty) Ltd                                           , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Chocolate Box interiors CC                                , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Woodlam (Pty) Ltd                                         , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Zwidulo (Pty) Ltd                                         , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Has Been Office Furniture (Pty) Ltd                       , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+R.I. Lipovec                                              , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Designer Projects Palace (Pty) Ltd                        , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+The Cupboardtree (Pty) Ltd                                , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+EC Woodworth (Pty) Ltd                                    , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Lifestyle Kitchens CC                                     , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Furniture Factory Outlet (Pty) Ltd                        , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Furnworx Logistics (Pty) Ltd                              , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+G. Bell                                                   , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Board King (Pty) Ltd                                      , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Dawie Janse van Vuuren                                    , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Linea Classica Furniture Manufacturers CC                 , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Sinuous Lines Design (Pty) Ltd                            , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Unique Shelf 09 CC                                        , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Advidata Trading 663 CC                                   , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Carel Greeff                                              , 8   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 New Era Commerce (Pty) Ltd                                , 8   ,  Discovery Life Provident Umbrella Fund
 Carlton Hair Gauteng (Pty) Ltd                            , 7   ,  Old Mutual Superfund Pension Fund
 Carlton Hair (Cape Town) (Pty) Ltd                        , 7   ,  Old Mutual Superfund Pension Fund
 Carlton Hair Durban (Pty) Ltd                             , 7   ,  Old Mutual Superfund Pension Fund
 Carlton Hair Hyde Park (Pty) Ltd                          , 7   ,  Old Mutual Superfund Pension Fund
 Kurtmax Trading (Pty) Ltd                                 , 7   ,  Old Mutual Superfund Pension Fund
-Double EM Distributors (Pty) Ltd t/a
-Champion Distributors                                     , 7   ,  Old Mutual Superfund Pension Fund
+Double EM Distributors (Pty) Ltd t/a Champion Distributors                                     , 7   ,  Old Mutual Superfund Pension Fund
 HFT Vervoer CC                                            , 7   ,  Old Mutual Superfund Pension Fund
-Paryn Motors (Pty) Ltd t/a Fifth Avenue
-Motors                                                    , 7   ,  Old Mutual Superfund Pension Fund
+Paryn Motors (Pty) Ltd t/a Fifth Avenue Motors                                                    , 7   ,  Old Mutual Superfund Pension Fund
 Aquanic Environmental Projects CC                         , 7   ,  Old Mutual Superfund Provident Fund
-Drs Erasmus Vawda Rabe & partners t/a
-Bayradiology                                              , 7   ,  Old Mutual Superfund Provident Fund
+Drs Erasmus Vawda Rabe & partners t/a Bayradiology                                              , 7   ,  Old Mutual Superfund Provident Fund
 Duel Tactical (Pty) Ltd                                   , 7   ,  Old Mutual Superfund Provident Fund
 East View Trading (Pty) Ltd                               , 7   ,  Old Mutual Superfund Provident Fund
 Emandleni Creche NPO                                      , 7   ,  Old Mutual Superfund Provident Fund
 Excelsior Trust                                           , 7   ,  Old Mutual Superfund Provident Fund
 Jade Waste (Pty) Ltd                                      , 7   ,  Old Mutual Superfund Provident Fund
-Jc Scheuer Enterprises CC t/a Mooiplaats
-Farm New Hanover                                          , 7   ,  Old Mutual Superfund Provident Fund
-KZN Society for the Blind Development
-Company (Pty) Ltd                                         , 7   ,  Old Mutual Superfund Provident Fund
+Jc Scheuer Enterprises CC t/a Mooiplaats Farm New Hanover                                          , 7   ,  Old Mutual Superfund Provident Fund
+KZN Society for the Blind Development Company (Pty) Ltd                                         , 7   ,  Old Mutual Superfund Provident Fund
 Lanseria Aircraft Interiors CC                            , 7   ,  Old Mutual Superfund Provident Fund
 Little Angels Say Care & Pre School                       , 7   ,  Old Mutual Superfund Provident Fund
 Masiqhame Trading 1555 CC                                 , 7   ,  Old Mutual Superfund Provident Fund
@@ -3501,25 +3325,22 @@ On the Beach Holiday Lettings CC                          , 7   ,  Old Mutual Su
 Onismus Gabriel Mnisi t/a Gijimane                        , 7   ,  Old Mutual Superfund Provident Fund
 Onvlee Engineering (Pty) Ltd                              , 7   ,  Old Mutual Superfund Provident Fund
 Sahara Sand Standerton CC                                 , 7   ,  Old Mutual Superfund Provident Fund
-Share a Deal 104 CC t/a Masizakhe
-Construction                                              , 7   ,  Old Mutual Superfund Provident Fund
+Share a Deal 104 CC t/a Masizakhe Construction                                              , 7   ,  Old Mutual Superfund Provident Fund
 Spar Retail Stores (Pty) Ltd                              , 7   ,  Old Mutual Superfund Provident Fund
 Fishing Hook Line & Sinker (Pty) Ltd                      , 7   ,  Old Mutual Superfund Provident Fund
 Spearchucker Fishing (Pty) Ltd                            , 7   ,  Old Mutual Superfund Provident Fund
 Trevor's Commercial Fishing (Pty) Ltd                     , 7   ,  Old Mutual Superfund Provident Fund
 Golden Leopard Resorts (Pty) Ltd                          , 7   ,  SACCAWU National Provident Fund
 Aviva Marble (Pty) Ltd                                    , 7   ,  SACCAWU National Provident Fund
-Nandocas Investments CC t/a Mugg &
-Bean Pavilion                                             , 7   ,  SACCAWU National Provident Fund
+Nandocas Investments CC t/a Mugg & Bean Pavilion                                             , 7   ,  SACCAWU National Provident Fund
 Perc Dry Cleaners and Laundries                           , 7   ,  SACCAWU National Provident Fund
 Letsemeng                                                 , 7   ,  Municipal Workers’ Retirement Fund
-                                                                   Alexander Forbes Retirement Fund
-Bob Cuts Hair Salon                                       , 7   ,  (Provident Section)
+
+Bob Cuts Hair Salon                                       , 7   , Alexander Forbes Retirement Fund  (Provident Section)
 Action Sound Trading and Projects                         , 7   ,  Private Security Sector Provident Fund
 Asada Protection Services                                 , 7   ,  Private Security Sector Provident Fund
 B-Secure                                                  , 7   ,  Private Security Sector Provident Fund
-Curotron t/a Viper Advanced Security
-Protection                                                , 7   ,  Private Security Sector Provident Fund
+Curotron t/a Viper Advanced Security Protection                                                , 7   ,  Private Security Sector Provident Fund
 D5 Security Group                                         , 7   ,  Private Security Sector Provident Fund
 Delta Force Elite                                         , 7   ,  Private Security Sector Provident Fund
 Dinare Security and Protection Services                   , 7   ,  Private Security Sector Provident Fund
@@ -3528,76 +3349,62 @@ Fernwood Estate Homeowners Association                    , 7   ,  Private Secur
 Filand Security (Pty) Ltd                                 , 7   ,  Private Security Sector Provident Fund
 Grit Secure (Pty) Ltd                                     , 7   ,  Private Security Sector Provident Fund
 Gwala Group Holdings                                      , 7   ,  Private Security Sector Provident Fund
-Houtbay Community Crime Prevention
-PBO t/a CCP                                               , 7   ,  Private Security Sector Provident Fund
-Just do it Trading and Construction t/a
-Procore Security                                          , 7   ,  Private Security Sector Provident Fund
+Houtbay Community Crime Prevention PBO t/a CCP                                               , 7   ,  Private Security Sector Provident Fund
+Just do it Trading and Construction t/a Procore Security                                          , 7   ,  Private Security Sector Provident Fund
 Kuzingca Protection Services                              , 7   ,  Private Security Sector Provident Fund
 L l Security CC                                           , 7   ,  Private Security Sector Provident Fund
-Maphangwana le Batau Cleaning and
-Security                                                  , 7   ,  Private Security Sector Provident Fund
+Maphangwana le Batau Cleaning and Security                                                  , 7   ,  Private Security Sector Provident Fund
 Molebogeng Security Services                              , 7   ,  Private Security Sector Provident Fund
 Msenge Protection Services                                , 7   ,  Private Security Sector Provident Fund
-Phangela Private Security Services (Pty)
-Ltd                                                       , 7   ,  Private Security Sector Provident Fund
+Phangela Private Security Services (Pty) Ltd                                                       , 7   ,  Private Security Sector Provident Fund
 Qiniso Security                                           , 7   ,  Private Security Sector Provident Fund
 Readyform 1132CC                                          , 7   ,  Private Security Sector Provident Fund
 Regiment Security Services                                , 7   ,  Private Security Sector Provident Fund
-Rephumo Security and Firefighting
-Services                                                  , 7   ,  Private Security Sector Provident Fund
+Rephumo Security and Firefighting Services                                                  , 7   ,  Private Security Sector Provident Fund
 SecuriGuard Security Services                             , 7   ,  Private Security Sector Provident Fund
 Six Combined Corporations                                 , 7   ,  Private Security Sector Provident Fund
 Specialised Stock Management CC                           , 7   ,  Private Security Sector Provident Fund
 STC Safety and Security CC                                , 7   ,  Private Security Sector Provident Fund
 Tsutsuma Tsotsi Security                                  , 7   ,  Private Security Sector Provident Fund
-Usizo Integrated Security Solutions (Pty)
-Ltd                                                       , 7   ,  Private Security Sector Provident Fund
+Usizo Integrated Security Solutions (Pty) Ltd                                                       , 7   ,  Private Security Sector Provident Fund
 Yireves Solutions 81                                      , 7   ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-RNS Kumbe Enterprise                                      , 7   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Denims Incorporation                                      , 7   ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Kling Trading CC                                          , 7   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Future Classics Manufacturing CC                          , 7   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Obica Casa (Pty) Ltd                                      , 7   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-A T E Woodworx (Pty) Ltd                                  , 7   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Unique Woodwork & design CC                               , 7   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-Unterhalters Manufacturing Upholsterers                            Manufacturing Industry of the Western
-CC                                                        , 7   ,  Cape Provident Fund
+
+RNS Kumbe Enterprise                                      , 7   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Denims Incorporation                                      , 7   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Kling Trading CC                                          , 7   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Future Classics Manufacturing CC                          , 7   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Obica Casa (Pty) Ltd                                      , 7   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+A T E Woodworx (Pty) Ltd                                  , 7   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Unique Woodwork & design CC                               , 7   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+CC                                                        , 7   , Bargaining Council for the Furniture Unterhalters Manufacturing Upholsterers                            Manufacturing Industry of the Western  Cape Provident Fund
 Spectrum Alert ITS                                        , 7   ,  SARPBAC Retirement Fund
-                                                                   Corporate Selection Umbrella Retirement
-Costa Lambrianos (Pty) Ltd                                , 6   ,  Fund
+
+Costa Lambrianos (Pty) Ltd                                , 6   , Corporate Selection Umbrella Retirement  Fund
 Devland Cash & Carry                                      , 6   ,  SACCAWU National Provident Fund
 Sunnyside Park Hotel                                      , 6   ,  SACCAWU National Provident Fund
 Selcourt Spar                                             , 6   ,  SACCAWU National Provident Fund
 Charly's Bakery CC                                        , 6   ,  SACCAWU National Provident Fund
-                                                                   Alexander Forbes Retirement Fund
-Acton Repair Services (Pty) Ltd (prov)                    , 6   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Thembekile Waste Management (Pty) Ltd                     , 6   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Imfuyo Air Products                                       , 6   ,  (Pension Section)
-                                                                   Alexander Forbes Retirement Fund
-Imfuyo Projects (Pty) Ltd                                 , 6   ,  (Pension Section)
-                                                                   Corporate Selection Umbrella Retirement
-Gansbaai Built It ((Pty) Ltd                              , 6   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-Burmar Manufacturing (Pty) Ltd                            , 6   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-Burmar Workshop (Pty) Ltd                                 , 6   ,  Fund No 2
+
+Acton Repair Services (Pty) Ltd (prov)                    , 6   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Thembekile Waste Management (Pty) Ltd                     , 6   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Imfuyo Air Products                                       , 6   , Alexander Forbes Retirement Fund  (Pension Section)
+
+Imfuyo Projects (Pty) Ltd                                 , 6   , Alexander Forbes Retirement Fund  (Pension Section)
+
+Gansbaai Built It ((Pty) Ltd                              , 6   , Corporate Selection Umbrella Retirement  Fund No 2
+
+Burmar Manufacturing (Pty) Ltd                            , 6   , Corporate Selection Umbrella Retirement  Fund No 2
+
+Burmar Workshop (Pty) Ltd                                 , 6   , Corporate Selection Umbrella Retirement  Fund No 2
 007 Innovations t/a Security 007                          , 6   ,  Private Security Sector Provident Fund
 3 Daughters Trading Enterprise                            , 6   ,  Private Security Sector Provident Fund
 Advanced Risk Operations                                  , 6   ,  Private Security Sector Provident Fund
@@ -3605,25 +3412,21 @@ Amabuso Security Solutions (Pty) Ltd                      , 6   ,  Private Secur
 Apcan Risk Management (Eastern Region)                    , 6   ,  Private Security Sector Provident Fund
 Associated Investigation Services                         , 6   ,  Private Security Sector Provident Fund
 Avalon works                                              , 6   ,  Private Security Sector Provident Fund
-Blue Light Monitoring and Armed
-Response (Pty) Ltd t/a Blue Security                      , 6   ,  Private Security Sector Provident Fund
+Blue Light Monitoring and Armed Response (Pty) Ltd t/a Blue Security                      , 6   ,  Private Security Sector Provident Fund
 Capital Security Boland (Pty) Ltd                         , 6   ,  Private Security Sector Provident Fund
 CB Security Rapid Response (Pty) Ltd                      , 6   ,  Private Security Sector Provident Fund
 Chase Waterford (Pty) Ltd                                 , 6   ,  Private Security Sector Provident Fund
 DBS Garden Route (Pty) Ltd t/a dBS                        , 6   ,  Private Security Sector Provident Fund
 Eagle Time Security (Pty) Ltd                             , 6   ,  Private Security Sector Provident Fund
-Evsol Eventsafe Specialised Services (Pty)
-Ltd                                                       , 6   ,  Private Security Sector Provident Fund
+Evsol Eventsafe Specialised Services (Pty) Ltd                                                       , 6   ,  Private Security Sector Provident Fund
 Ezingeni Security and Cleaning                            , 6   ,  Private Security Sector Provident Fund
 Fakude Family Security CC                                 , 6   ,  Private Security Sector Provident Fund
-GRS Security Solutions t/a Global Risk
-Solutions                                                 , 6   ,  Private Security Sector Provident Fund
+GRS Security Solutions t/a Global Risk Solutions                                                 , 6   ,  Private Security Sector Provident Fund
 Haqqa (Pty) Ltd                                           , 6   ,  Private Security Sector Provident Fund
 Ipss Emnambithi (Pty) Ltd                                 , 6   ,  Private Security Sector Provident Fund
 Isandiselo                                                , 6   ,  Private Security Sector Provident Fund
 Khosland Security Services                                , 6   ,  Private Security Sector Provident Fund
-Makhulukhulu Works ta Makhulukhulu
-Protections                                               , 6   ,  Private Security Sector Provident Fund
+Makhulukhulu Works ta Makhulukhulu Protections                                               , 6   ,  Private Security Sector Provident Fund
 Mbube Security Eastern                                    , 6   ,  Private Security Sector Provident Fund
 Mbube Security Western                                    , 6   ,  Private Security Sector Provident Fund
 MMA Superior Bodyguard Protection                         , 6   ,  Private Security Sector Provident Fund
@@ -3649,52 +3452,38 @@ Una Security                                              , 6   ,  Private Secur
 We Serve Projects (Pty) Ltd                               , 6   ,  Private Security Sector Provident Fund
 Yatab Security Services                                   , 6   ,  Private Security Sector Provident Fund
 Zonke Izizwe Security Services                            , 6   ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Jenbro Textiles CC                                        , 6   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Panda Sports CC                                           , 6   ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Naomie Snyman                                             , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Mantella Trading 446 CC                                   , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Office Furniture Factory Seconds (Pty) Ltd                , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Ebutsi RSA (Pty) Ltd                                      , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Tantus Trading 408 (Pty) Ltd                              , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Niclate (Pty) Ltd                                         , 6   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Northwest Industrial Cleaning CC                          , 6   ,  Cape Provident Fund
+
+Jenbro Textiles CC                                        , 6   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Panda Sports CC                                           , 6   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Naomie Snyman                                             , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Mantella Trading 446 CC                                   , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Office Furniture Factory Seconds (Pty) Ltd                , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Ebutsi RSA (Pty) Ltd                                      , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Tantus Trading 408 (Pty) Ltd                              , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Niclate (Pty) Ltd                                         , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Northwest Industrial Cleaning CC                          , 6   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
 Do Light                                                  , 6   ,  SARPBAC Retirement Fund
 VD Edu-Group (Pty) Ltd                                    , 5   ,  Old Mutual Superfund Pension Fund
-Nkonkobe Economic Development Agency
-NPC                                                       , 5   ,  Old Mutual Superfund Pension Fund
+Nkonkobe Economic Development Agency NPC                                                       , 5   ,  Old Mutual Superfund Pension Fund
 Nutri-Stahl Cookware (Pty) Ltd                            , 5   ,  Old Mutual Superfund Pension Fund
 Sandblatech and Civil Engineering                         , 5   ,  Old Mutual Superfund Pension Fund
-Taurus Holding CC t/a Taurus Mulbarton
-Pharmacy                                                  , 5   ,  Old Mutual Superfund Pension Fund
-AHF Brand Spyseniering CC h/a Ouma se
-Kombuis                                                   , 5   ,  Old Mutual Superfund Provident Fund
-Airite Sheet Metal CC t/a Suntech Geomet
-Laboratories                                              , 5   ,  Old Mutual Superfund Provident Fund
+Taurus Holding CC t/a Taurus Mulbarton Pharmacy                                                  , 5   ,  Old Mutual Superfund Pension Fund
+AHF Brand Spyseniering CC h/a Ouma se Kombuis                                                   , 5   ,  Old Mutual Superfund Provident Fund
+Airite Sheet Metal CC t/a Suntech Geomet Laboratories                                              , 5   ,  Old Mutual Superfund Provident Fund
 BRN Agencies CC                                           , 5   ,  Old Mutual Superfund Provident Fund
 Cathedral of the Sacred Heart                             , 5   ,  Old Mutual Superfund Provident Fund
 CRS Technologies (Pty) Ltd                                , 5   ,  Old Mutual Superfund Provident Fund
 Dr M M Tebelele Incorporated                              , 5   ,  Old Mutual Superfund Provident Fund
 Elsumo (Pty) Ltd                                          , 5   ,  Old Mutual Superfund Provident Fund
-ESP Greenville Trading and Projects (Pty)
-Ltd                                                       , 5   ,  Old Mutual Superfund Provident Fund
+ESP Greenville Trading and Projects (Pty) Ltd                                                       , 5   ,  Old Mutual Superfund Provident Fund
 Flaming Silver Trading 51 CC                              , 5   ,  Old Mutual Superfund Provident Fund
 G E Roller Enterprises (Pty) Ltd                          , 5   ,  Old Mutual Superfund Provident Fund
 Goue Weste Vervoer Bpk.                                   , 5   ,  Old Mutual Superfund Provident Fund
@@ -3716,24 +3505,22 @@ Consuflex CC                                              , 5   ,  Old Mutual Su
 Sassenheim estate                                         , 5   ,  Old Mutual Superfund Provident Fund
 Satumo Sewing and Embroidery (Pty) Ltd                    , 5   ,  Old Mutual Superfund Provident Fund
 Lourdes Primary School NPO                                , 5   ,  Old Mutual Superfund Provident Fund
-Tradeworx 148 (Pty) Ltd t/a Tygerberg
-Body Corporate                                            , 5   ,  Old Mutual Superfund Provident Fund
+Tradeworx 148 (Pty) Ltd t/a Tygerberg Body Corporate                                            , 5   ,  Old Mutual Superfund Provident Fund
 Ucocekowater Projects (Pty) Ltd                           , 5   ,  Old Mutual Superfund Provident Fund
 Under 1 hour (Pty) Ltd                                    , 5   ,  Old Mutual Superfund Provident Fund
-Victory Ticket 849 CC t/a Eden Fresh
-Produce                                                   , 5   ,  Old Mutual Superfund Provident Fund
+Victory Ticket 849 CC t/a Eden Fresh Produce                                                   , 5   ,  Old Mutual Superfund Provident Fund
 Zibambeleni Old Age Home                                  , 5   ,  Old Mutual Superfund Provident Fund
 Ray Nkonyeni (Hibiscus)                                   , 5   ,  Municipal Councillors Pension Fund
 Strydoms Algemene Handelaar                               , 5   ,  SACCAWU National Provident Fund
 Ikhwezi Foods CC                                          , 5   ,  SACCAWU National Provident Fund
 Tuerk Music Technologies (Pty) Ltd                        , 5   ,  SACCAWU National Provident Fund
 Vegie Town                                                , 5   ,  SACCAWU National Provident Fund
-                                                                   Alexander Forbes Retirement Fund
-Kidzfantasy World                                         , 5   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Mokotedi Investments Group (Pty) Ltd                      , 5   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Acton Repair Services (Pty) Ltd (pen)                     , 5   ,  (Pension Section)
+
+Kidzfantasy World                                         , 5   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Mokotedi Investments Group (Pty) Ltd                      , 5   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Acton Repair Services (Pty) Ltd (pen)                     , 5   , Alexander Forbes Retirement Fund  (Pension Section)
 National Security and Fire (Pty) Ltd                      , 5   ,  Corporate selection umbrella pension fund
 ABC Security Guarding Division (Pty) Ltd                  , 5   ,  Private Security Sector Provident Fund
 Afrisponse                                                , 5   ,  Private Security Sector Provident Fund
@@ -3744,16 +3531,12 @@ Avid Security (Pty) Ltd                                   , 5   ,  Private Secur
 Axe Security (Pty) Ltd                                    , 5   ,  Private Security Sector Provident Fund
 Blue Scorpion Protection Services                         , 5   ,  Private Security Sector Provident Fund
 Bojanala Secure (Pty) Ltd                                 , 5   ,  Private Security Sector Provident Fund
-Bolale Trading and Projects ta Bolale
-Protection Services                                       , 5   ,  Private Security Sector Provident Fund
-Bolle technologies t/a Vault Security
-Services                                                  , 5   ,  Private Security Sector Provident Fund
+Bolale Trading and Projects ta Bolale Protection Services                                       , 5   ,  Private Security Sector Provident Fund
+Bolle technologies t/a Vault Security Services                                                  , 5   ,  Private Security Sector Provident Fund
 BRM Solution                                              , 5   ,  Private Security Sector Provident Fund
 Bullguard Security Solutions                              , 5   ,  Private Security Sector Provident Fund
 Citywide Security (Pty) Ltd                               , 5   ,  Private Security Sector Provident Fund
-Crawford and Pheiffers Uyathembeka
-Services and Suppliers t/a Uyathembeka
-Security Services                                         , 5   ,  Private Security Sector Provident Fund
+Crawford and Pheiffers Uyathembeka Services and Suppliers t/a Uyathembeka Security Services                                         , 5   ,  Private Security Sector Provident Fund
 Ditebogo Unit Security Services                           , 5   ,  Private Security Sector Provident Fund
 Eager Beaver Projects                                     , 5   ,  Private Security Sector Provident Fund
 Excalibur Defense (Pty) Ltd                               , 5   ,  Private Security Sector Provident Fund
@@ -3768,119 +3551,88 @@ Hp Private Security Services                              , 5   ,  Private Secur
 IPSS Security Services SA                                 , 5   ,  Private Security Sector Provident Fund
 Irmas Security Training and Skills Center                 , 5   ,  Private Security Sector Provident Fund
 Isibane Security Solution                                 , 5   ,  Private Security Sector Provident Fund
-K2021814262(South Africa) ta VTSS
-Grabouw                                                   , 5   ,  Private Security Sector Provident Fund
-Keyguard Training Academy (Pty) Ltd t/a
-Siyabona Protection Services                              , 5   ,  Private Security Sector Provident Fund
+K2021814262(South Africa) ta VTSS Grabouw                                                   , 5   ,  Private Security Sector Provident Fund
+Keyguard Training Academy (Pty) Ltd t/a Siyabona Protection Services                              , 5   ,  Private Security Sector Provident Fund
 Kunye Security (Pty) Ltd                                  , 5   ,  Private Security Sector Provident Fund
 Mabhande Security Service                                 , 5   ,  Private Security Sector Provident Fund
 Magen Protection Services CC                              , 5   ,  Private Security Sector Provident Fund
-Mathaphuza Security and Cleaning
-Services                                                  , 5   ,  Private Security Sector Provident Fund
+Mathaphuza Security and Cleaning Services                                                  , 5   ,  Private Security Sector Provident Fund
 Mavcorp Holdings                                          , 5   ,  Private Security Sector Provident Fund
 Mbube Security Central                                    , 5   ,  Private Security Sector Provident Fund
 Men in Action Security CC                                 , 5   ,  Private Security Sector Provident Fund
 Mikaara Services                                          , 5   ,  Private Security Sector Provident Fund
 Nthabeleng Security Services                              , 5   ,  Private Security Sector Provident Fund
-Orange Security and Risk Consultants t/a
-Orange Security                                           , 5   ,  Private Security Sector Provident Fund
+Orange Security and Risk Consultants t/a Orange Security                                           , 5   ,  Private Security Sector Provident Fund
 Orion Risk Solutions                                      , 5   ,  Private Security Sector Provident Fund
 Papa Mike Protection Services                             , 5   ,  Private Security Sector Provident Fund
 PLJN Security                                             , 5   ,  Private Security Sector Provident Fund
-Rhino Protection Unit (Pty) Ltd t/a Rhino
-Security                                                  , 5   ,  Private Security Sector Provident Fund
+Rhino Protection Unit (Pty) Ltd t/a Rhino Security                                                  , 5   ,  Private Security Sector Provident Fund
 RHM Services and Suppliers                                , 5   ,  Private Security Sector Provident Fund
 Seng Khona Holdings                                       , 5   ,  Private Security Sector Provident Fund
 Sephoko Risk Solutions                                    , 5   ,  Private Security Sector Provident Fund
 Shield Protection Solutions                               , 5   ,  Private Security Sector Provident Fund
 South Tech Response Security (Pty) Ltd                    , 5   ,  Private Security Sector Provident Fund
-Strassberger Beleggings t/a B & S
-Handelaars                                                , 5   ,  Private Security Sector Provident Fund
-Thembanathi Security Safety and Cleaning
-Services                                                  , 5   ,  Private Security Sector Provident Fund
+Strassberger Beleggings t/a B & S Handelaars                                                , 5   ,  Private Security Sector Provident Fund
+Thembanathi Security Safety and Cleaning Services                                                  , 5   ,  Private Security Sector Provident Fund
 Tsessebe Security                                         , 5   ,  Private Security Sector Provident Fund
 Umdumezulu Trading                                        , 5   ,  Private Security Sector Provident Fund
 Zamezakhe Security Services CC                            , 5   ,  Private Security Sector Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Ambiven                                                   , 5   ,  Chamber Provident Fund
-                                                                   National Bargain Council for the Clothing
-                                                                   Manufacturing Industry Northern Region
-Zest                                                      , 5   ,  Chamber Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-L H Tt Furniture Manufacturers CC                         , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-Courtney Collette Lorenzo Projects (Pty)                           Manufacturing Industry of the Western
-Ltd                                                       , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-Trenery Furniture design & Manufacturing                           Manufacturing Industry of the Western
-(Pty) Ltd                                                 , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Vitafoam (Pty) Ltd                                        , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Agile Spaces (Pty) Ltd                                    , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Control Wood Products (Pty) Ltd                           , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Dinka Trading CC                                          , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Lisinfo 20 Trading (Pty) Ltd                              , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Massyn Exports (Pty) Ltd                                  , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Comfi Living (Pty) Ltd                                    , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Sinfra Investments (Pty) Ltd                              , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-K T Board and Component Cutting CC                        , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Phoenix Polyurethane Products CC                          , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Plaza Board Centre CC                                     , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-The Corner Upholstery Shoppe CC                           , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-David James Kitchen Designs CC                            , 5   ,  Cape Provident Fund
-                                                                   Bargaining Council for the Furniture
-                                                                   Manufacturing Industry of the Western
-Sir Wiz Service Centres CC                                , 5   ,  Cape Provident Fund
-Sovereign Seeker Investments 156 (Pty)
-Ltd                                                       , 5   ,  Discovery Life Provident Umbrella Fund
+
+Ambiven                                                   , 5   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+Zest                                                      , 5   , National Bargain Council for the Clothing Manufacturing Industry Northern Region  Chamber Provident Fund
+
+L H Tt Furniture Manufacturers CC                         , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Ltd                                                       , 5   , Bargaining Council for the Furniture Courtney Collette Lorenzo Projects (Pty)                           Manufacturing Industry of the Western  Cape Provident Fund
+
+(Pty) Ltd                                                 , 5   , Bargaining Council for the Furniture Trenery Furniture design & Manufacturing                           Manufacturing Industry of the Western  Cape Provident Fund
+
+Vitafoam (Pty) Ltd                                        , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Agile Spaces (Pty) Ltd                                    , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Control Wood Products (Pty) Ltd                           , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Dinka Trading CC                                          , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Lisinfo 20 Trading (Pty) Ltd                              , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Massyn Exports (Pty) Ltd                                  , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Comfi Living (Pty) Ltd                                    , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Sinfra Investments (Pty) Ltd                              , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+K T Board and Component Cutting CC                        , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Phoenix Polyurethane Products CC                          , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Plaza Board Centre CC                                     , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+The Corner Upholstery Shoppe CC                           , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+David James Kitchen Designs CC                            , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+
+Sir Wiz Service Centres CC                                , 5   , Bargaining Council for the Furniture Manufacturing Industry of the Western  Cape Provident Fund
+Sovereign Seeker Investments 156 (Pty) Ltd                                                       , 5   ,  Discovery Life Provident Umbrella Fund
 Thaleda Development Agency                                , 4   ,  Municipal Employees Pension Fund
 Finant No 17 CC t/a Trident Marketing                     , 4   ,  Old Mutual Superfund Pension Fund
 Masiya Business Solutions CC                              , 4   ,  Old Mutual Superfund Pension Fund
 Silica Quartz (Pty) Ltd                                   , 4   ,  Old Mutual Superfund Pension Fund
-Wild Goose Trading and Services 15 CC
-t/a Auto Renew Panel Beaters                              , 4   ,  Old Mutual Superfund Pension Fund
+Wild Goose Trading and Services 15 CC t/a Auto Renew Panel Beaters                              , 4   ,  Old Mutual Superfund Pension Fund
 Brava Partners (Pty) Ltd                                  , 4   ,  Old Mutual Superfund Provident Fund
-Crime Inquiry and Bodyguarding Services
-CC                                                        , 4   ,  Old Mutual Superfund Provident Fund
+Crime Inquiry and Bodyguarding Services CC                                                        , 4   ,  Old Mutual Superfund Provident Fund
 Elperora (Pty) Ltd t/a FF Meat Products                   , 4   ,  Old Mutual Superfund Provident Fund
 Expectra 319 (Pty) Ltd                                    , 4   ,  Old Mutual Superfund Provident Fund
 Harmsen Attorneys                                         , 4   ,  Old Mutual Superfund Provident Fund
 Helderberg Insurance Brokers (Pty) Ltd                    , 4   ,  Old Mutual Superfund Provident Fund
 Hlwekisa Kleening Services                                , 4   ,  Old Mutual Superfund Provident Fund
-Kwa-Majola Electrical and Construction in
-Trading (Pty) Ltd                                         , 4   ,  Old Mutual Superfund Provident Fund
+Kwa-Majola Electrical and Construction in Trading (Pty) Ltd                                         , 4   ,  Old Mutual Superfund Provident Fund
 Lapologa Bed and Breakfast CC                             , 4   ,  Old Mutual Superfund Provident Fund
 Lekgau Ngcebo Finance (Pty) Ltd                           , 4   ,  Old Mutual Superfund Provident Fund
 Leope la Badimo Transport CC                              , 4   ,  Old Mutual Superfund Provident Fund
-Lourensford Estates Farming Enterprises
-(Pty) Ltd                                                 , 4   ,  Old Mutual Superfund Provident Fund
+Lourensford Estates Farming Enterprises (Pty) Ltd                                                 , 4   ,  Old Mutual Superfund Provident Fund
 Nuvotec (Pty) Ltd                                         , 4   ,  Old Mutual Superfund Provident Fund
 Ouch! A touch of Technology CC                            , 4   ,  Old Mutual Superfund Provident Fund
 S A red cross society (provident)                         , 4   ,  Old Mutual Superfund Provident Fund
@@ -3890,8 +3642,7 @@ PBR Logistics (Pty) Ltd                                   , 4   ,  Old Mutual Su
 Platinum Pro Plant (Pty) Ltd                              , 4   ,  Old Mutual Superfund Provident Fund
 Tafisa (Pty) Ltd                                          , 4   ,  Old Mutual Superfund Provident Fund
 Techris CC                                                , 4   ,  Old Mutual Superfund Provident Fund
-Telegenix Trading 380 CC t/a T&V Hydrau-
-pneumatic Solutions                                       , 4   ,  Old Mutual Superfund Provident Fund
+Telegenix Trading 380 CC t/a T&V Hydrau- pneumatic Solutions                                       , 4   ,  Old Mutual Superfund Provident Fund
 Willem SS Logistics (Pty) Ltd                             , 4   ,  Old Mutual Superfund Provident Fund
 Xhwa Promotions CC                                        , 4   ,  Old Mutual Superfund Provident Fund
 Sunrise Factory Distributors (Pty) Ltd                    , 4   ,  SACCAWU National Provident Fund
@@ -3905,38 +3656,36 @@ Hyperland Hillfox                                         , 4   ,  SACCAWU Natio
 Quicktruss CC                                             , 4   ,  SACCAWU National Provident Fund
 Dagbreek Spar                                             , 4   ,  SACCAWU National Provident Fund
 Map water                                                 , 4   ,  Municipal Workers’ Retirement Fund
-                                                                   Alexander Forbes Retirement Fund
-Inflowz Trading and Projects                              , 4   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Thuba Construction CC                                     , 4   ,  (Provident Section)
-                                                                   Alexander Forbes Retirement Fund
-Le Croc (Pty) Ltd                                         , 4   ,  (Pension Section)
-                                                                   Alexander Forbes Retirement Fund
-Tiyimisele Management Services (Pty) Ltd                  , 4   ,  (Pension Section)
+
+Inflowz Trading and Projects                              , 4   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Thuba Construction CC                                     , 4   , Alexander Forbes Retirement Fund  (Provident Section)
+
+Le Croc (Pty) Ltd                                         , 4   , Alexander Forbes Retirement Fund  (Pension Section)
+
+Tiyimisele Management Services (Pty) Ltd                  , 4   , Alexander Forbes Retirement Fund  (Pension Section)
 Maluti a Phofung Water Local Municipality                 , 4   ,  National Fund for Municipal Workers
 Mike's Sport                                              , 4   ,  Corporate selection umbrella pension fund
 Njati Holdings (Pty) Ltd                                  , 4   ,  Corporate selection umbrella pension fund
 Blue Thistle Trading 32 (Pty) Ltd                         , 4   ,  Corporate selection umbrella pension fund
 Mediwaste Packaging (Pty) Ltd                             , 4   ,  Corporate selection umbrella pension fund
-                                                                   Corporate Selection Umbrella Retirement
-Ledwaba Funeral Parlour CC                                , 4   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-Central Methodist Mission                                 , 4   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-Crave Meat Products CC                                    , 4   ,  Fund No 2
-                                                                     Corporate Selection Umbrella Retirement
-African Spear Trading 117 CC                              , 4   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-Welch Allyn South Africa (Pty) Ltd                        , 4   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-M & D Holdings (Pty) Ltd                                  , 4   ,  Fund No 2
-                                                                   Corporate Selection Umbrella Retirement
-KDR Load Testing (Pty) Ltd                                , 4   ,  Fund No 2
-Amazim-Zim Security Services and Private
-Investigators                                             , 4   ,  Private Security Sector Provident Fund
+
+Ledwaba Funeral Parlour CC                                , 4   ,  Corporate Selection Umbrella Retirement Fund No 2
+
+Central Methodist Mission                                 , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+
+Crave Meat Products CC                                    , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+
+African Spear Trading 117 CC                              , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+
+Welch Allyn South Africa (Pty) Ltd                        , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+
+M & D Holdings (Pty) Ltd                                  , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+
+KDR Load Testing (Pty) Ltd                                , 4   , Corporate Selection Umbrella Retirement  Fund No 2
+Amazim-Zim Security Services and Private Investigators                                             , 4   ,  Private Security Sector Provident Fund
 Armourguard Security Services                             , 4   ,  Private Security Sector Provident Fund
-Beetee's Caps t/a Makadebona VIP
-Protection Services                                       , 4   ,  Private Security Sector Provident Fund
+Beetee's Caps t/a Makadebona VIP Protection Services                                       , 4   ,  Private Security Sector Provident Fund
 Blue International (Pty) Ltd                              , 4   ,  Private Security Sector Provident Fund
 Citi Security Services                                    , 4   ,  Private Security Sector Provident Fund
 Complex Patrols                                           , 4   ,  Private Security Sector Provident Fund
@@ -3949,34 +3698,26 @@ Garrison Security Solutions                               , 4   ,  Private Secur
 Gate to Door Security                                     , 4   ,  Private Security Sector Provident Fund
 Geant Services (Pty) Ltd                                  , 4   ,  Private Security Sector Provident Fund
 Green Security South Africa (Pty) Ltd                     , 4   ,  Private Security Sector Provident Fund
-Mansarite Security and Risk Management
-(Pty) Ltd                                                 , 4   ,  Private Security Sector Provident Fund
-Maudi a Matlakala Security Services (Pty)
-Ltd                                                       , 4   ,  Private Security Sector Provident Fund
+Mansarite Security and Risk Management (Pty) Ltd                                                 , 4   ,  Private Security Sector Provident Fund
+Maudi a Matlakala Security Services (Pty) Ltd                                                       , 4   ,  Private Security Sector Provident Fund
 Mec Training (Pty) Ltd                                    , 4   ,  Private Security Sector Provident Fund
 Mjoes Security and Cleaning Services                      , 4   ,  Private Security Sector Provident Fund
-Moftec Solutions CC t/a MKH-Security
-Services                                                  , 4   ,  Private Security Sector Provident Fund
+Moftec Solutions CC t/a MKH-Security Services                                                  , 4   ,  Private Security Sector Provident Fund
 Mthunzini Group CC t/a skills in motion                   , 4   ,  Private Security Sector Provident Fund
 Naspoti J&M Security Solutions (Pty) Ltd                  , 4   ,  Private Security Sector Provident Fund
 Ndugu Armed Response                                      , 4   ,  Private Security Sector Provident Fund
-Ngatshilidzi Protection Services (Pty) Ltd
-t/a NPS Security                                          , 4   ,  Private Security Sector Provident Fund
-Nico & Charles Security Trading as NC
-Security                                                  , 4   ,  Private Security Sector Provident Fund
+Ngatshilidzi Protection Services (Pty) Ltd t/a NPS Security                                          , 4   ,  Private Security Sector Provident Fund
+Nico & Charles Security Trading as NC Security                                                  , 4   ,  Private Security Sector Provident Fund
 Ntsele ka Linda Trading (Pty) Ltd                         , 4   ,  Private Security Sector Provident Fund
 Orange Group SA                                           , 4   ,  Private Security Sector Provident Fund
 Peaceforce Security (Cape) CC                             , 4   ,  Private Security Sector Provident Fund
 Pro-tech Risk Control (Gauteng)                           , 4   ,  Private Security Sector Provident Fund
-Sizabantubakithi Trading Enterprise t/a
-Sizabantubakithi Security Services                        , 4   ,  Private Security Sector Provident Fund
+Sizabantubakithi Trading Enterprise t/a Sizabantubakithi Security Services                        , 4   ,  Private Security Sector Provident Fund
 Sizani Protection Services                                , 4   ,  Private Security Sector Provident Fund
 Slick MIB t/a Slick MIB Tactical Unit                     , 4   ,  Private Security Sector Provident Fund
-Sp24 Security (Pty) Ltd t/a Sp24 Security
-(Pty) Ltd                                                 , 4   ,  Private Security Sector Provident Fund
+Sp24 Security (Pty) Ltd t/a Sp24 Security (Pty) Ltd                                                 , 4   ,  Private Security Sector Provident Fund
 Static Protection Services (Pty) Ltd                      , 4   ,  Private Security Sector Provident Fund
-STC Facilities Management ta STC
-Management Security Services                              , 4   ,  Private Security Sector Provident Fund
+STC Facilities Management ta STC Management Security Services                              , 4   ,  Private Security Sector Provident Fund
 Tactical Risk Control Cape Town (Pty) Ltd                 , 4   ,  Private Security Sector Provident Fund
 Taru Holdings (Pty) Ltd                                   , 4   ,  Private Security Sector Provident Fund
 U'fezela Security Services t/a Senforce                   , 4   ,  Private Security Sector Provident Fund
