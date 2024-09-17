@@ -1,0 +1,10 @@
+POST http://localhost:7700/indexes/two-pot/search
+Content-Type: application/json
+{
+    "q": "who"
+}
+
+### New amazing request
+
+GET https://jsonplaceholder.typicode.com/posts
+
